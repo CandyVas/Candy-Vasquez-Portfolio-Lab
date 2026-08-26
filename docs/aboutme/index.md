@@ -1,6 +1,7 @@
 # Call Me Candy!
 
-<img width="2050" height="519" alt="13a1f889279413c3290ed411b71b3018" src="https://github.com/user-attachments/assets/c764f0bd-e216-49bd-a03f-681bf545b914" />
+<img width="1457" height="318" alt="Mechanical-page-1" src="https://github.com/user-attachments/assets/2ead47d0-1374-429d-8375-24a2fb3f2477" />
+
 
 ## Get to know me
 My path to mechanical engineering has not been a linear one. Before settling on engineering, I explored several different fields through the many courses available to me via college. My initial interest was in interior design, which eventually led me to architecture. Civil engineering was on my radar at this point, but I was uncertain if it was something I was capable of. This aversion led me to courses adjacent to engineering, but not quite. Sustainability and energy was a lot of fun, but taking these classes opened my perspective to how engineering connects many of the subjects I had already been interested in.
