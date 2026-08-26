@@ -5,7 +5,7 @@
 
 **Welcome to MY design portfolio.**
 
-Greetings and welcome! My name is Candy and I am very excited to be taking this class 
+Greetings and welcome! My name is Candy and I am a mechanical engineer major here at UNC Charlotte. I am excited to be continuing my education here and even more so to be taking this class. This portfolio is meant to document that journey through the designs and projects i have developed within this course. It is meant to showcase not only what i designed, but how it was designed, the technology behind it, and what i learned along the way. 
 
 
 
