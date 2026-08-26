@@ -1,15 +1,16 @@
 # MEGR 2156 — Design Projects I Laboratory
-> **Engineering is the art of making decisions you can defend.**
 <img width="912" height="242" alt="image" src="https://github.com/user-attachments/assets/1a5761f9-a65f-4c88-bf43-394d27a90787" />
 
+> **Engineering is the art of making decisions you can defend.**
 
-**Welcome to MY design portfolio.**
+## Welcome to MY design portfolio
 
-Greetings and welcome! My name is Candy and I am a mechanical engineer major here at UNC Charlotte. I am excited to be continuing my education here and even more so to be taking this class. This portfolio is meant to document that journey through the designs and projects i have developed within this course. It is meant to showcase not only what i designed, but how it was designed, the technology behind it, and what i learned along the way. 
+Greetings and welcome, my name is Candy and I am a mechanical engineer major here at UNC Charlotte. I am excited to be continuing my education and even more so to be taking this class. This portfolio is meant to document that journey through the designs and projects I have developed throughout this course. It is meant to showcase not only what I have designed, but also how it was designed, the technology behind it, and what I learned along the way. 
 
+---
 
+<img width="850" height="400" alt="quote-scientists-investigate-that-which-already-is-engineers-create-that-which-has-never-been-albert-einstein-82-36-17" src="https://github.com/user-attachments/assets/fbe32abe-72c2-4536-b909-f4f5c328239b" />
 
-This site is the working record of your design decisions across MEGR 2156. Every entry documents your process — what you designed, how you designed it for the specific technology you were using, and what you learned from building it. Engineering documentation is a skill developed through deliberate practice. Each lab is an opportunity to improve the precision, clarity, and professional quality of how you record your work. As you progress through the semester your design capability will grow alongside your documentation — this portfolio is the record of that journey.
 
 ---
 
