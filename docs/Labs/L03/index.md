@@ -11,3 +11,5 @@
 
 ## Communicate
 
+used pla to print 
+used printer 
