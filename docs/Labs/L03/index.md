@@ -118,9 +118,20 @@ My only qualm, however this is a personal preference that seems unavoidable with
     
 Something i would have changed throughout this process is probably choosing a more challenging design, especially since this was my first ever 3D print. Something more complicated could have pushed me to learn and look more into PrusaSlicer, especially if i were to go in and adjust orientation. 
 
-The time it took to complete this excerise was approximately 60 minutes. 20 minutes was spent during the begginign of class, looking for a design. dowloading the file and adjusting the settings took 5. Checking and confirming the slice off PrusaSlicer took 5 minutes. We were given an introduction to the Rapid Prototyping Lab as well as how to work the printers, which took 10 minutes. And finally, the printing came down to 17 minutes, which totals to 57 minutes total. 
++ The time it took to complete this excerise was approximately 60 minutes.
 
-Finally, I'd like to recognize Kaileigh Hill as my teammate who worked alongside me as we printed our designs. 
+    + **20 minutes** was spent during the beginning of class, looking for a design.
+ 
+    + Dowloading the file and adjusting the settings took **5 minutes**
+      
+    + Checking and confirming the slice off PrusaSlicer took **5 minutes**
+
+    + We were given an introduction to the Rapid Prototyping Lab as well as how to work the printers, which took **10 minutes**
+
+    + And finally, the printing came down to **17 minutes**
++ ... which totals to 57 minutes total.
+
+Finally, I'd like to recognize Kaileigh Hill for the collaboration of this project as we manufactured our designs together. 
 
 # Resources
 
