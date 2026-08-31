@@ -6,10 +6,10 @@
 
 We were tasked to download something from the website printables which offers an endless amount of free 3d prints that the public can download and print themselves. In honor of Halloween coming up soon, I wanted to find a design that was spooky, but cute enough to be incorporated into what I normally carry around. 
 
-The design I ended up settling on was a ghost keychain, which can be found via this link (https://www.printables.com/model/288657-halloween-ghost-keychain/comments). Not only does it match the vibe i was aiming for, but it also matches the stipulations of this assignment- keychains are small since it's meant to be easily transportable.
+The design I ended up settling on was a (Ghost Keychain)[https://www.printables.com/model/288657-halloween-ghost-keychain]. Not only does it match the vibe i was aiming for, but it also matches the stipulations of this assignment- keychains are small since it's meant to be easily transportable.
 <img width="791" height="346" alt="image" src="https://github.com/user-attachments/assets/a1560496-011b-4048-bb92-a4ec494e0ded" />
 
-A design that i thought to download but chose not to were these bats meant for wall decor. I decided not to because in our previous lecture we were discussing FDM considerations and in my research i looked into warping and layer adhesion. I was afraid that printing a flat design would cause the edges to lift, and these are lab printers used by plenty of students, so i didnt want a super thin deisgn to stick to the plate and struggling to take it off. 
+A design that i thought to download but chose not to were these (Bats)[https://www.printables.com/model/299289-vintage-halloween-bat-wall-decor] meant for wall decor. I decided not to because in our previous lecture we were discussing FDM considerations and in my research i looked into warping and layer adhesion. I was afraid that printing a flat design would cause the edges to lift, and these are lab printers used by plenty of students, so i didnt want a super thin deisgn to stick to the plate and struggling to take it off. 
 
 <img width="758" height="352" alt="image" src="https://github.com/user-attachments/assets/9f365f86-ddf7-42f3-a7c8-a76629107b8b" />
 
@@ -74,21 +74,21 @@ After the 17 minutes, the models were finished and ready to be removed from the 
 
 <img width="290" height="212" alt="image" src="https://github.com/user-attachments/assets/62133b37-0f4b-4a52-88dd-cc73f3acb4d8" />
 
-<img width="290" height="212" alt="image" src="https://github.com/user-attachments/assets/ab945b53-fe17-433c-a84c-16e1d745e27d" />
+<img width="270" height="212" alt="image" src="https://github.com/user-attachments/assets/ab945b53-fe17-433c-a84c-16e1d745e27d" />
 
 # Lessons Learned
 
-> 1. Look at your slice
-      Only after slicing a design will it gave you the useful information of estimated printing times and how much filiment will be used. Useful information if you are on a time crunch or working with limited materials.
+1. Look at Your Slice
+>Only after slicing a design will it gave you the useful information of estimated printing times and how much filiment will be used. Useful information if you are on a time crunch or working with limited materials.
 
-> 3. Check and Confirm Settings
-    not every model is built the same, you can't expect to download a file and it fitting all your criteria. It's important that you choose the correct printer settings, filament that is going to be used, and connect it to the correct printer model.
+3. Check and Confirm Settings
+>not every model is built the same, you can't expect to download a file and it fitting all your criteria. It's important that you choose the correct printer settings, filament that is going to be used, and connect it to the correct printer model.
 
-> 4. Longer print time
-      3D printing is already a slow process because we are building on layer by layer. I was given an estimate of 13 minutes to print, however the printer needed time heating up which extended the time for the design to be finished by 4 minutes. Look at the given slice time as an approximate, not an exact amount of time a print will finish.
+4. Estimated Print Times
+>3D printing is already a slow process because we are building on layer by layer. I was given an estimate of 13 minutes to print, however the printer needed time heating up which extended the time for the design to be finished by 4 minutes. Look at the given slice time as an approximate, not an exact amount of time a print will finish.
 
-> 5. Infill
-     The inside of a 3d design isn't always purely solid. When watching my ghost keychain get printed, the inside of my ghost was accomplished using a cross hatch design. This opposed to a hallow design, which may be lighter but not structurally as strong. Or a completely solid inside, which may take more material and time to print.
+5. Object Infill
+>The inside of a 3d design isn't always purely solid. When watching my ghost keychain get printed, the inside of my ghost was accomplished using a cross hatch design. This opposed to a hallow design, which may be lighter but not structurally as strong. Or a completely solid inside, which may take more material and time to print.
     
 Something i would have changed throughout this process is probably choosing a more challenging design, especially since this was my first ever 3D print. Something more complicated could have pushed me to learn and look more into PrusaSlicer, especially if i were to go in and adjust orientation. The time it took to complete this excerise was approximately 60 minutes. 20 minutes was spent during the begginign of class, looking for a design. dowloading the file and adjusting the settings took 5. Checking and confirming the slice off PrusaSlicer took 5 minutes. We were given an introduction to the Rapid Prototyping Lab as well as how to work the printers, which took 10 minutes. And finally, the printing came down to 17 minutes, which totals to 57 minutes total. 
 
