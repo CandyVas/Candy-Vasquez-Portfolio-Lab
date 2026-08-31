@@ -44,7 +44,9 @@ it would be printed flat, like how displayed in the image above. I was lucky eno
 
 > Object Selected & Sliced info
 
-This could have been fixed by either using the "Scale" [S] button on the right corner, which allows the user to drag and change the dimensions of their mode. However, i chose the option of simply going to the object manipulation window on the left side of my screen, and reducing my number down to exactly .25. This seems to have automatically scaled down the rest of my model down approximately 79% smaller. This change in size also impacted the print time, albeit a small amount, it makes sense that a smaller object would take less time to make because it wont take up as much room or materials. 
+This could have been fixed by either using the "Scale" [S] button on the right corner, which allows the user to drag and change the dimensions of their mode. However, i chose the option of simply going to the object manipulation window on the left side of my screen, and reducing my number down to exactly .25. 
+
+This seems to have automatically scaled down the rest of my model down approximately 79% smaller. This change in size also impacted the print time, albeit a small amount, it makes sense that a smaller object would take less time to make because it wont take up as much room or materials. 
 
 <img width="648" height="240" alt="image" src="https://github.com/user-attachments/assets/d67c96f7-81be-480a-908f-d24d1356c0e5" />
 
@@ -75,23 +77,30 @@ We added both our models to the same plate. After both were incorporated and we 
 
 <img width="763" height="406" alt="image" src="https://github.com/user-attachments/assets/b386bcc7-4d67-475d-94ff-ba8c607491ae" />
 
+> Cherry & Ghost Model on Printing Plate
+
 Using the designated USB PC-07 for the printer, the USB was slotted into the laptop in order to export the G-code (available after being sliced). From there we took the usb back into the printer with our designs on it and began the printing process.
 
 I noticed that the printing did not happen immediatlley, and in the printing screen that displays the image being printed, it showed an estimate of 4 minutes for the nozzle to heat up. This makes sense since it's essentially melting material to be shaped layer by layer. As the time went on, we continuousl checked on the progress of our models to confirm weverythin was going well. 
 
-<img width="207" height="350" alt="image" src="https://github.com/user-attachments/assets/0fbc2e42-6382-4f90-aafc-d7534dd9e0d7" />
+<img width="190" height="270" alt="image" src="https://github.com/user-attachments/assets/0fbc2e42-6382-4f90-aafc-d7534dd9e0d7" />
 
-<img width="374" height="356" alt="image" src="https://github.com/user-attachments/assets/bf111767-c27d-43a2-b6f6-8c9750dfd751" />
+<img width="250" height="230" alt="image" src="https://github.com/user-attachments/assets/bf111767-c27d-43a2-b6f6-8c9750dfd751" />
 
-Iff youll notice in the first iage above, the display shows not only both designs, but the percentage of completion for the prints. It shows a progress of 76%, as well as the remaining time for the print to finish, which was 3 minutes by the time that picture was taken. if you'd like to see a video progression of the printing, i have a 15 second video available [here](https://github.com/user-attachments/assets/4017d8cb-76a3-4264-b6a5-d051622c9464)
+> Cherry & Ghost Printing Progress
+
+If youll notice in the first iage above, the display shows not only both designs, but the percentage of completion for the prints. It shows a progress of 76%, as well as the remaining time for the print to finish, which was 3 minutes by the time that picture was taken. if you'd like to see a video progression of the printing, i have a 15 second video available [here](https://github.com/user-attachments/assets/4017d8cb-76a3-4264-b6a5-d051622c9464)
 
 # Finished Product
 
-After the 17 minutes, the models were finished and ready to be removed from the printing plate. I was fortunate enough to not have any issues with my ghost- removing it from the plate took no effort and there was no need for the scraper. It did not experience any of the warping i was initially afraid of with the intiial deisgn i almost picked. My only qualm, however this is a personal preference that seems unavoidable with 3D rinting is the textured outcome of the model. If i wanted it to have a smooth finish for painting, I'd probably have to sandpaper it. However it makes sense that a little texture exists, becase if you saw from the video above, 3D printing works in layers accomplished by lines and lines stacking on top eachother. 
+After the 17 minutes, the models were finished and ready to be removed from the printing plate. I was fortunate enough to not have any issues with my ghost- removing it from the plate took no effort and there was no need for the scraper. It did not experience any of the warping i was initially afraid of with the intiial deisgn i almost picked. 
+
+My only qualm, however this is a personal preference that seems unavoidable with 3D rinting is the textured outcome of the model. If i wanted it to have a smooth finish for painting, I'd probably have to sandpaper it. However it makes sense that a little texture exists, becase if you saw from the video above, 3D printing works in layers accomplished by lines and lines stacking on top eachother. 
 
 <img width="130" height="124" alt="image" src="https://github.com/user-attachments/assets/62133b37-0f4b-4a52-88dd-cc73f3acb4d8" />
-
 <img width="130" height="124" alt="image" src="https://github.com/user-attachments/assets/ab945b53-fe17-433c-a84c-16e1d745e27d" />
+
+> Ghost Finished Result
 
 # Lessons Learned
 
@@ -107,18 +116,16 @@ After the 17 minutes, the models were finished and ready to be removed from the 
 ### 4. Object Infill
 >The inside of a 3d design isn't always purely solid. When watching my ghost keychain get printed, the inside of my ghost was accomplished using a cross hatch design. This opposed to a hallow design, which may be lighter but not structurally as strong. Or a completely solid inside, which may take more material and time to print.
     
-Something i would have changed throughout this process is probably choosing a more challenging design, especially since this was my first ever 3D print. Something more complicated could have pushed me to learn and look more into PrusaSlicer, especially if i were to go in and adjust orientation. The time it took to complete this excerise was approximately 60 minutes. 20 minutes was spent during the begginign of class, looking for a design. dowloading the file and adjusting the settings took 5. Checking and confirming the slice off PrusaSlicer took 5 minutes. We were given an introduction to the Rapid Prototyping Lab as well as how to work the printers, which took 10 minutes. And finally, the printing came down to 17 minutes, which totals to 57 minutes total. 
+Something i would have changed throughout this process is probably choosing a more challenging design, especially since this was my first ever 3D print. Something more complicated could have pushed me to learn and look more into PrusaSlicer, especially if i were to go in and adjust orientation. 
+
+The time it took to complete this excerise was approximately 60 minutes. 20 minutes was spent during the begginign of class, looking for a design. dowloading the file and adjusting the settings took 5. Checking and confirming the slice off PrusaSlicer took 5 minutes. We were given an introduction to the Rapid Prototyping Lab as well as how to work the printers, which took 10 minutes. And finally, the printing came down to 17 minutes, which totals to 57 minutes total. 
 
 Finally, I'd like to recognize Kaileigh Hill as my teammate who worked alongside me as we printed our designs. 
 
 # Resources
 
-[Printables](https://www.printables.com/)
-
-[Ghost Keychain Used](https://www.printables.com/model/288657-halloween-ghost-keychain)
-
-[Rejected Wall Decor Bats](https://www.printables.com/model/299289-vintage-halloween-bat-wall-decor)
-
-[PrusaSlicer](https://www.prusa3d.com/p/prusaslicer/)
-
-UNC Charlotte Rapid Prototyping Lab
+[Printables](https://www.printables.com/) - Website I used to browse free 3-D print designs
+[Ghost Keychain Used](https://www.printables.com/model/288657-halloween-ghost-keychain) - What I ended up printing
+[Rejected Wall Decor Bats](https://www.printables.com/model/299289-vintage-halloween-bat-wall-decor) - Rejected design i did not print
+[PrusaSlicer](https://www.prusa3d.com/p/prusaslicer/) - Used for scaling and slicing design to appropriate G-Mode file
+Rapid Prototyping Lab, UNC Charlotte  - Accessed for manufacturing designs 
