@@ -27,9 +27,13 @@ We were tasked to download something from the website printables which offers an
 
 <img width="652" height="160" alt="image" src="https://github.com/user-attachments/assets/c8ca4476-a1a4-470d-8349-2f3b8a5fdf28" />
 
+>STL download
+
 When downloading this model, i noticed that the download was in the format of a STL file, which is used for 3D printing which is exactly what's being done in this assignment. That file was then imported into PrusaSlicer and the printer we were instructed to choose from being the Prusa CORE One with a 0.4 mm nozzle. SInce PLA was the required material for this assignment, i also made sure to incoorprate that into the settings of my deisgn. 
 
 <img width="959" height="500" alt="image" src="https://github.com/user-attachments/assets/95f56360-c349-43a7-8155-bfac2c279b27" />
+
+>Imported Ghost into PrusaSlicer
 
 This was what i was immediately met with after opening said STL file. No supports were needed in this model because it is not a floating design, nor will it overhangs anywhere. The build orientation i decided on was predetermined by the modeler of this object since that is exactly how it showed up when opening the model. on the other side of the design of the halloween face is a flat surface that helps secure it to the build plate.  
 
@@ -38,16 +42,20 @@ it would be printed flat, like how displayed in the image above. I was lucky eno
 <img width="514" height="220" alt="image" src="https://github.com/user-attachments/assets/d914cac9-00be-40cf-8ffb-5265d8edb3f3" />
 <img width="310" height="148" alt="image" src="https://github.com/user-attachments/assets/9fac0535-1120-4458-8301-6346c0bdc057" />
 
+> Object Selected & Sliced info
 
 This could have been fixed by either using the "Scale" [S] button on the right corner, which allows the user to drag and change the dimensions of their mode. However, i chose the option of simply going to the object manipulation window on the left side of my screen, and reducing my number down to exactly .25. This seems to have automatically scaled down the rest of my model down approximately 79% smaller. This change in size also impacted the print time, albeit a small amount, it makes sense that a smaller object would take less time to make because it wont take up as much room or materials. 
 
 <img width="748" height="263" alt="image" src="https://github.com/user-attachments/assets/d67c96f7-81be-480a-908f-d24d1356c0e5" />
 
+> Scaled Object & Object Manipulation Settings
+
 After making my alterations with the size, i clicked on the "slice now" button, keeping the default slicer settings. It changed my model from green to an orange highlight. Only after slicing did it give em the estimated time to print and the ability to export my model
 
-<img width="424" height="247" alt="image" src="https://github.com/user-attachments/assets/4a5b7a11-b4bb-4522-8828-9f825d7c7d57" />
-<img width="311" height="150" alt="image" src="https://github.com/user-attachments/assets/5f4ebda3-8509-4370-b55a-f5a548e8fb30" />
+<img width="300" height="240" alt="image" src="https://github.com/user-attachments/assets/4a5b7a11-b4bb-4522-8828-9f825d7c7d57" />
+<img width="240" height="210" alt="image" src="https://github.com/user-attachments/assets/5f4ebda3-8509-4370-b55a-f5a548e8fb30" />
 
+> Object Sliced & Sliced Info
 
 Hence, I was able to finally exported my work into a g-code file, and made sure to import it into my USB. 
 <img width="652" height="160" alt="Screenshot 2026-08-27 150822" src="https://github.com/user-attachments/assets/7c8af14d-21eb-41ed-86e2-509223cbb779" />
@@ -84,16 +92,16 @@ After the 17 minutes, the models were finished and ready to be removed from the 
 
 # Lessons Learned
 
-1. Look at Your Slice
+### 1. Look at Your Slice
 >Only after slicing a design will it gave you the useful information of estimated printing times and how much filiment will be used. Useful information if you are on a time crunch or working with limited materials.
 
-3. Check and Confirm Settings
+### 2. Check and Confirm Settings
 >not every model is built the same, you can't expect to download a file and it fitting all your criteria. It's important that you choose the correct printer settings, filament that is going to be used, and connect it to the correct printer model.
 
-4. Estimated Print Times
+### 3. Estimated Print Times
 >3D printing is already a slow process because we are building on layer by layer. I was given an estimate of 13 minutes to print, however the printer needed time heating up which extended the time for the design to be finished by 4 minutes. Look at the given slice time as an approximate, not an exact amount of time a print will finish.
 
-5. Object Infill
+### 4. Object Infill
 >The inside of a 3d design isn't always purely solid. When watching my ghost keychain get printed, the inside of my ghost was accomplished using a cross hatch design. This opposed to a hallow design, which may be lighter but not structurally as strong. Or a completely solid inside, which may take more material and time to print.
     
 Something i would have changed throughout this process is probably choosing a more challenging design, especially since this was my first ever 3D print. Something more complicated could have pushed me to learn and look more into PrusaSlicer, especially if i were to go in and adjust orientation. The time it took to complete this excerise was approximately 60 minutes. 20 minutes was spent during the begginign of class, looking for a design. dowloading the file and adjusting the settings took 5. Checking and confirming the slice off PrusaSlicer took 5 minutes. We were given an introduction to the Rapid Prototyping Lab as well as how to work the printers, which took 10 minutes. And finally, the printing came down to 17 minutes, which totals to 57 minutes total. 
