@@ -39,7 +39,7 @@ This was what i was immediately met with after opening said STL file. No support
 
 it would be printed flat, like how displayed in the image above. I was lucky enough to discover out this print matched most of this assignments requirements, and that i didn't have to do much tinkering when it came to downsizing my model. The only issue i came across was that the z value, the height of the print, surpassed the .25 inch height requirement. Thankfully not by a whole lot, and it was simple to fix. 
 
-<img width="514" height="220" alt="image" src="https://github.com/user-attachments/assets/d914cac9-00be-40cf-8ffb-5265d8edb3f3" />
+<img width="414" height="190" alt="image" src="https://github.com/user-attachments/assets/d914cac9-00be-40cf-8ffb-5265d8edb3f3" />
 <img width="310" height="148" alt="image" src="https://github.com/user-attachments/assets/9fac0535-1120-4458-8301-6346c0bdc057" />
 
 > Object Selected & Sliced info
@@ -53,12 +53,13 @@ This could have been fixed by either using the "Scale" [S] button on the right c
 After making my alterations with the size, i clicked on the "slice now" button, keeping the default slicer settings. It changed my model from green to an orange highlight. Only after slicing did it give em the estimated time to print and the ability to export my model
 
 <img width="300" height="240" alt="image" src="https://github.com/user-attachments/assets/4a5b7a11-b4bb-4522-8828-9f825d7c7d57" />
-<img width="240" height="210" alt="image" src="https://github.com/user-attachments/assets/5f4ebda3-8509-4370-b55a-f5a548e8fb30" />
+<img width="240" height="190" alt="image" src="https://github.com/user-attachments/assets/5f4ebda3-8509-4370-b55a-f5a548e8fb30" />
 
 > Object Sliced & Sliced Info
 
 Hence, I was able to finally exported my work into a g-code file, and made sure to import it into my USB. 
 <img width="652" height="160" alt="Screenshot 2026-08-27 150822" src="https://github.com/user-attachments/assets/7c8af14d-21eb-41ed-86e2-509223cbb779" />
+> G-Code Dowload
 
 # PRINTING 
 
@@ -67,6 +68,8 @@ In the printing lab, there was a plenty of printers to choose from, but limited 
 <img width="270" height="190" alt="PC 7" src="https://github.com/user-attachments/assets/8edc7838-542d-4cab-ab55-63d591a7bf01" />
 <img width="190" height="230" alt="Screenshot 2026-08-31 134048" src="https://github.com/user-attachments/assets/532c8300-88df-404d-9e8e-4da5306b0edc" />
 <img width="190" height="180" alt="image" src="https://github.com/user-attachments/assets/61d20ac5-59da-4ab5-bebd-7be97bc2f7bb" />
+
+> 3-D Printer Setting Screen & PLA Filament
 
 We added both our models to the same plate. After both were incorporated and we were happy with its placement, the design was sliced and given an estimation of 13 minutes to print, which makes sense considering these are two small designs meant to consider design speculations. 
 
