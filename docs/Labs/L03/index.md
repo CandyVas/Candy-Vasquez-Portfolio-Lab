@@ -40,7 +40,7 @@ This was what i was immediately met with after opening said STL file. No support
 it would be printed flat, like how displayed in the image above. I was lucky enough to discover out this print matched most of this assignments requirements, and that i didn't have to do much tinkering when it came to downsizing my model. The only issue i came across was that the z value, the height of the print, surpassed the .25 inch height requirement. Thankfully not by a whole lot, and it was simple to fix. 
 
 <img width="414" height="190" alt="image" src="https://github.com/user-attachments/assets/d914cac9-00be-40cf-8ffb-5265d8edb3f3" />
-<img width="310" height="148" alt="image" src="https://github.com/user-attachments/assets/9fac0535-1120-4458-8301-6346c0bdc057" />
+<img width="210" height="150" alt="image" src="https://github.com/user-attachments/assets/9fac0535-1120-4458-8301-6346c0bdc057" />
 
 > Object Selected & Sliced info
 
@@ -53,7 +53,7 @@ This could have been fixed by either using the "Scale" [S] button on the right c
 After making my alterations with the size, i clicked on the "slice now" button, keeping the default slicer settings. It changed my model from green to an orange highlight. Only after slicing did it give em the estimated time to print and the ability to export my model
 
 <img width="300" height="240" alt="image" src="https://github.com/user-attachments/assets/4a5b7a11-b4bb-4522-8828-9f825d7c7d57" />
-<img width="240" height="190" alt="image" src="https://github.com/user-attachments/assets/5f4ebda3-8509-4370-b55a-f5a548e8fb30" />
+<img width="220" height="190" alt="image" src="https://github.com/user-attachments/assets/5f4ebda3-8509-4370-b55a-f5a548e8fb30" />
 
 > Object Sliced & Sliced Info
 
