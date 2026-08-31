@@ -10,14 +10,14 @@ We were tasked to download something from the website printables which offers an
 
 ### Rejected Design 
 > **Vintage Halloween Bat Wall Decor**
-A design that i thought to download but chose not to were these [Bats](https://www.printables.com/model/299289-vintage-halloween-bat-wall-decor) meant for wall decor. I decided not to because in our previous lecture we were discussing FDM considerations and in my research i looked into warping and layer adhesion. I was afraid that printing a flat design would cause the edges to lift, and these are lab printers used by plenty of students, so i didnt want a super thin deisgn to stick to the plate and struggling to take it off. 
+> A design that i thought to download but chose not to were these [Bats](https://www.printables.com/model/299289-vintage-halloween-bat-wall-decor) meant for wall decor. I decided not to because in our previous lecture we were discussing FDM considerations and in my research i looked into warping and layer adhesion. I was afraid that printing a flat design would cause the edges to lift, and these are lab printers used by plenty of students, so i didnt want a super thin deisgn to stick to the plate and struggling to take it off. 
 
 <img width="130" height="124" alt="image" src="https://github.com/user-attachments/assets/8bb01ba5-0e51-4244-a052-94dbd1418057" />
 
 
 ### Final Design 
 > **Halloween Ghost Keychain**
-The design I ended up settling on was a [Ghost Keychain](https://www.printables.com/model/288657-halloween-ghost-keychain). Not only does it fit in the terms of my own personal preferences, but it also fits inside the constrains found in this assignment. Keychains are meant to be small since and easily transportable. The design is much thicker than my initial decision, so the concern of warping isn't too relevant here. 
+> The design I ended up settling on was a [Ghost Keychain](https://www.printables.com/model/288657-halloween-ghost-keychain). Not only does it fit in the terms of my own personal preferences, but it also fits inside the constrains found in this assignment. Keychains are meant to be small since and easily transportable. The design is much thicker than my initial decision, so the concern of warping isn't too relevant here. 
 
 <img width="130" height="124" alt="image" src="https://github.com/user-attachments/assets/079e333e-6056-4bf7-b51e-4575841cf9ba" />
 
@@ -72,18 +72,15 @@ I noticed that the printing did not happen immediatlley, and in the printing scr
 
 <img width="374" height="356" alt="image" src="https://github.com/user-attachments/assets/bf111767-c27d-43a2-b6f6-8c9750dfd751" />
 
-Iff youll notice in the first iage above, the display shows not only both designs, but the percentage of completion for the prints. It shows a progress of 76%, as well as the remaining time for the print to finish, which was 3 minutes by the time that picture was taken. if you'd like to see a video progression of the printing, i have a 15 second video available here 
-
-
-https://github.com/user-attachments/assets/4017d8cb-76a3-4264-b6a5-d051622c9464
+Iff youll notice in the first iage above, the display shows not only both designs, but the percentage of completion for the prints. It shows a progress of 76%, as well as the remaining time for the print to finish, which was 3 minutes by the time that picture was taken. if you'd like to see a video progression of the printing, i have a 15 second video available [here](https://github.com/user-attachments/assets/4017d8cb-76a3-4264-b6a5-d051622c9464)
 
 # Finished Product
 
 After the 17 minutes, the models were finished and ready to be removed from the printing plate. I was fortunate enough to not have any issues with my ghost- removing it from the plate took no effort and there was no need for the scraper. It did not experience any of the warping i was initially afraid of with the intiial deisgn i almost picked. My only qualm, however this is a personal preference that seems unavoidable with 3D rinting is the textured outcome of the model. If i wanted it to have a smooth finish for painting, I'd probably have to sandpaper it. However it makes sense that a little texture exists, becase if you saw from the video above, 3D printing works in layers accomplished by lines and lines stacking on top eachother. 
 
-<img width="290" height="212" alt="image" src="https://github.com/user-attachments/assets/62133b37-0f4b-4a52-88dd-cc73f3acb4d8" />
+<img width="130" height="124" alt="image" src="https://github.com/user-attachments/assets/62133b37-0f4b-4a52-88dd-cc73f3acb4d8" />
 
-<img width="270" height="212" alt="image" src="https://github.com/user-attachments/assets/ab945b53-fe17-433c-a84c-16e1d745e27d" />
+<img width="130" height="124" alt="image" src="https://github.com/user-attachments/assets/ab945b53-fe17-433c-a84c-16e1d745e27d" />
 
 # Lessons Learned
 
