@@ -56,9 +56,9 @@ Hence, I was able to finally exported my work into a g-code file, and made sure 
 
 In the printing lab, there was a plenty of printers to choose from, but limited available for everyone present in the lab. I ended up pairing my design with a teammate, Kaileigh Hill. We decided on the printer that had the connected USb PC-07. This printer uses PLA filament as their material for printing. This was considered when choosing the printer settings since it was required in the assignment instructions. 
 
-<img width="290" height="212" alt="PC 7" src="https://github.com/user-attachments/assets/8edc7838-542d-4cab-ab55-63d591a7bf01" />
-<img width="212" height="290" alt="image" src="https://github.com/user-attachments/assets/9b167479-613b-47c9-8bad-f653e557e293" />
-<img width="209" height="196" alt="image" src="https://github.com/user-attachments/assets/61d20ac5-59da-4ab5-bebd-7be97bc2f7bb" />
+<img width="270" height="190" alt="PC 7" src="https://github.com/user-attachments/assets/8edc7838-542d-4cab-ab55-63d591a7bf01" />
+<img width="190" height="230" alt="Screenshot 2026-08-31 134048" src="https://github.com/user-attachments/assets/532c8300-88df-404d-9e8e-4da5306b0edc" />
+<img width="190" height="180" alt="image" src="https://github.com/user-attachments/assets/61d20ac5-59da-4ab5-bebd-7be97bc2f7bb" />
 
 We added both our models to the same plate. After both were incorporated and we were happy with its placement, the design was sliced and given an estimation of 13 minutes to print, which makes sense considering these are two small designs meant to consider design speculations. 
 
