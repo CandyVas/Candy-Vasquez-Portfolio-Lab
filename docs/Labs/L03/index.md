@@ -97,8 +97,8 @@ After the 17 minutes, the models were finished and ready to be removed from the 
 
 My only qualm, however this is a personal preference that seems unavoidable with 3D rinting is the textured outcome of the model. If i wanted it to have a smooth finish for painting, I'd probably have to sandpaper it. However it makes sense that a little texture exists, becase if you saw from the video above, 3D printing works in layers accomplished by lines and lines stacking on top eachother. 
 
-<img width="130" height="124" alt="image" src="https://github.com/user-attachments/assets/62133b37-0f4b-4a52-88dd-cc73f3acb4d8" />
-<img width="130" height="124" alt="image" src="https://github.com/user-attachments/assets/ab945b53-fe17-433c-a84c-16e1d745e27d" />
+<img width="140" height="134" alt="image" src="https://github.com/user-attachments/assets/62133b37-0f4b-4a52-88dd-cc73f3acb4d8" />
+<img width="130" height="134" alt="image" src="https://github.com/user-attachments/assets/ab945b53-fe17-433c-a84c-16e1d745e27d" />
 
 > Ghost Finished Result
 
@@ -124,8 +124,12 @@ Finally, I'd like to recognize Kaileigh Hill as my teammate who worked alongside
 
 # Resources
 
-[Printables](https://www.printables.com/) - Website I used to browse free 3-D print designs
-[Ghost Keychain Used](https://www.printables.com/model/288657-halloween-ghost-keychain) - What I ended up printing
-[Rejected Wall Decor Bats](https://www.printables.com/model/299289-vintage-halloween-bat-wall-decor) - Rejected design i did not print
-[PrusaSlicer](https://www.prusa3d.com/p/prusaslicer/) - Used for scaling and slicing design to appropriate G-Mode file
-Rapid Prototyping Lab, UNC Charlotte  - Accessed for manufacturing designs 
+[Printables](https://www.printables.com/) - Website I used to browse free 3-D printing designs
+
+[Halloween Ghost Keychain](https://www.printables.com/model/288657-halloween-ghost-keychain) - The design I ended up printing.
+
+[Vintage Halloween Bat Wall Decor](https://www.printables.com/model/299289-vintage-halloween-bat-wall-decor) - Rejected design I chose not to print
+
+[PrusaSlicer](https://www.prusa3d.com/p/prusaslicer/) - Used for scaling and slicing chosen design to convert into appropriate G-Mode file
+
+Rapid Prototyping Lab, UNC Charlotte  - Lab accessed for manufacturing chosen designs 
