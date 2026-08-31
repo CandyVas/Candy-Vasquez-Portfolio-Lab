@@ -6,17 +6,18 @@
 
 We were tasked to download something from the website printables which offers an endless amount of free 3d prints that the public can download and print themselves. In honor of Halloween coming up soon, I wanted to find a design that was spooky, but cute enough to be incorporated into what I normally carry around. 
 
-The design I ended up settling on was a (Ghost Keychain)[https://www.printables.com/model/288657-halloween-ghost-keychain]. Not only does it match the vibe i was aiming for, but it also matches the stipulations of this assignment- keychains are small since it's meant to be easily transportable.
+The design I ended up settling on was a [Ghost Keychain](https://www.printables.com/model/288657-halloween-ghost-keychain). Not only does it match the vibe i was aiming for, but it also matches the stipulations of this assignment- keychains are small since it's meant to be easily transportable.
+
 <img width="791" height="346" alt="image" src="https://github.com/user-attachments/assets/a1560496-011b-4048-bb92-a4ec494e0ded" />
 
-A design that i thought to download but chose not to were these (Bats)[https://www.printables.com/model/299289-vintage-halloween-bat-wall-decor] meant for wall decor. I decided not to because in our previous lecture we were discussing FDM considerations and in my research i looked into warping and layer adhesion. I was afraid that printing a flat design would cause the edges to lift, and these are lab printers used by plenty of students, so i didnt want a super thin deisgn to stick to the plate and struggling to take it off. 
+A design that i thought to download but chose not to were these [Bats](https://www.printables.com/model/299289-vintage-halloween-bat-wall-decor) meant for wall decor. I decided not to because in our previous lecture we were discussing FDM considerations and in my research i looked into warping and layer adhesion. I was afraid that printing a flat design would cause the edges to lift, and these are lab printers used by plenty of students, so i didnt want a super thin deisgn to stick to the plate and struggling to take it off. 
 
 <img width="758" height="352" alt="image" src="https://github.com/user-attachments/assets/9f365f86-ddf7-42f3-a7c8-a76629107b8b" />
 
 
 # Importing Files
 
-<img width="452" height="113" alt="image" src="https://github.com/user-attachments/assets/c8ca4476-a1a4-470d-8349-2f3b8a5fdf28" />
+<img width="852" height="213" alt="image" src="https://github.com/user-attachments/assets/c8ca4476-a1a4-470d-8349-2f3b8a5fdf28" />
 
 When downloading this model, i noticed that the download was in the format of a STL file, which is used for 3D printing which is exactly what's being done in this assignment. That file was then imported into PrusaSlicer and the printer we were instructed to choose from being the Prusa CORE One with a 0.4 mm nozzle. SInce PLA was the required material for this assignment, i also made sure to incoorprate that into the settings of my deisgn. 
 
@@ -41,7 +42,7 @@ After making my alterations with the size, i clicked on the "slice now" button, 
 
 
 Hence, I was able to finally exported my work into a g-code file, and made sure to import it into my USB. 
-<img width="461" height="116" alt="Screenshot 2026-08-27 150822" src="https://github.com/user-attachments/assets/7c8af14d-21eb-41ed-86e2-509223cbb779" />
+<img width="852" height="213" alt="Screenshot 2026-08-27 150822" src="https://github.com/user-attachments/assets/7c8af14d-21eb-41ed-86e2-509223cbb779" />
 
 # PRINTING 
 
@@ -96,12 +97,12 @@ Finally, I'd like to recognize Kaileigh Hill as my teammate who worked alongside
 
 # Resources
 
-(Printables)[https://www.printables.com/]
+[Printables](https://www.printables.com/)
 
-(Ghost Keychain Used)[https://www.printables.com/model/288657-halloween-ghost-keychain]
+[Ghost Keychain Used](https://www.printables.com/model/288657-halloween-ghost-keychain)
 
-(Rejected Bat wall Decor)[https://www.printables.com/model/299289-vintage-halloween-bat-wall-decor]
+[Rejected Wall Decor Bats](https://www.printables.com/model/299289-vintage-halloween-bat-wall-decor)
 
-(PrusaSlicer)[https://www.prusa3d.com/p/prusaslicer/]
+[PrusaSlicer](https://www.prusa3d.com/p/prusaslicer/)
 
 UNC Charlotte Rapid Prototyping Lab
