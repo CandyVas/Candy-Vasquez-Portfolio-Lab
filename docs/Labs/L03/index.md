@@ -1,3 +1,5 @@
+
+
 # A3 – Print a Design!
 
 # Finding a Design
@@ -64,6 +66,38 @@ I noticed that the printing did not happen immediatlley, and in the printing scr
 Iff youll notice in the first iage above, the display shows not only both designs, but the percentage of completion for the prints. It shows a progress of 76%, as well as the remaining time for the print to finish, which was 3 minutes by the time that picture was taken. if you'd like to see a video progression of the printing, i have a 15 second video available here 
 
 
+https://github.com/user-attachments/assets/4017d8cb-76a3-4264-b6a5-d051622c9464
 
+# Finished Product
 
+After the 17 minutes, the models were finished and ready to be removed from the printing plate. I was fortunate enough to not have any issues with my ghost- removing it from the plate took no effort and there was no need for the scraper. It did not experience any of the warping i was initially afraid of with the intiial deisgn i almost picked. My only qualm, however this is a personal preference that seems unavoidable with 3D rinting is the textured outcome of the model. If i wanted it to have a smooth finish for painting, I'd probably have to sandpaper it. However it makes sense that a little texture exists, becase if you saw from the video above, 3D printing works in layers accomplished by lines and lines stacking on top eachother. 
 
+<img width="290" height="212" alt="image" src="https://github.com/user-attachments/assets/62133b37-0f4b-4a52-88dd-cc73f3acb4d8" />
+
+<img width="290" height="212" alt="image" src="https://github.com/user-attachments/assets/ab945b53-fe17-433c-a84c-16e1d745e27d" />
+
+# Lessons Learned
+
+> 1. Look at your slice
+      Only after slicing a design will it gave you the useful information of estimated printing times and how much filiment will be used. Useful information if you are on a time crunch or working with limited materials.
+
+> 3. Check and Confirm Settings
+    not every model is built the same, you can't expect to download a file and it fitting all your criteria. It's important that you choose the correct printer settings, filament that is going to be used, and connect it to the correct printer model.
+
+> 4. Longer print time
+      3D printing is already a slow process because we are building on layer by layer. I was given an estimate of 13 minutes to print, however the printer needed time heating up which extended the time for the design to be finished by 4 minutes. Look at the given slice time as an approximate, not an exact amount of time a print will finish.
+
+> 5. Infill
+     The inside of a 3d design isn't always purely solid. When watching my ghost keychain get printed, the inside of my ghost was accomplished using a cross hatch design. This opposed to a hallow design, which may be lighter but not structurally as strong. Or a completely solid inside, which may take more material and time to print.
+    
+Something i would have changed throughout this process is probably choosing a more challenging design, especially since this was my first ever 3D print. Something more complicated could have pushed me to learn and look more into PrusaSlicer, especially if i were to go in and adjust orientation. The time it took to complete this excerise was approximately 60 minutes. 20 minutes was spent during the begginign of class, looking for a design. dowloading the file and adjusting the settings took 5. Checking and confirming the slice off PrusaSlicer took 5 minutes. We were given an introduction to the Rapid Prototyping Lab as well as how to work the printers, which took 10 minutes. And finally, the printing came down to 17 minutes, which totals to 57 minutes total. 
+
+Finally, I'd like to recognize Kaileigh Hill as my teammate who worked alongside me as we printed our designs. 
+
+# Resources
+
+(Printables)[https://www.printables.com/]
+
+(Ghost Keychain Used)[https://www.printables.com/model/288657-halloween-ghost-keychain]
+
+(Rejected Bat wall Decor) 
