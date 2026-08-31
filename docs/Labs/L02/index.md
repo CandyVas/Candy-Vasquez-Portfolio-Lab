@@ -12,8 +12,7 @@ The one FDM consideration I chose to study was warping, which happens when there
 
 > Something new my teammate taught me about warping is if the design you have is too thick, the layers will start to peel. One way to combat this is by hallowing out your design and adding more space in the middle. 
 
-
-# Finding a Design
+## Finding a Design
 
 We were tasked to download something from the website printables which offers an endless amount of free 3d prints that the public can download and print themselves. In honor of Halloween coming up soon, I wanted to find a design that was spooky, but cute enough to be incorporated into what I normally carry around. 
 
@@ -34,7 +33,7 @@ We were tasked to download something from the website printables which offers an
 
 
 
-# Importing Files
+## Importing Files
 
 <img width="652" height="160" alt="image" src="https://github.com/user-attachments/assets/c8ca4476-a1a4-470d-8349-2f3b8a5fdf28" />
 
@@ -74,7 +73,7 @@ Hence, I was able to finally exported my work into a g-code file, and made sure 
 <img width="652" height="160" alt="Screenshot 2026-08-27 150822" src="https://github.com/user-attachments/assets/7c8af14d-21eb-41ed-86e2-509223cbb779" />
 > G-Code Dowload
 
-# PRINTING 
+## Printing 
 
 In the printing lab, there was a plenty of printers to choose from, but limited available for everyone present in the lab. I ended up pairing my design with a teammate, Kaileigh Hill. We decided on the printer that had the connected USb PC-07. This printer uses PLA filament as their material for printing. This was considered when choosing the printer settings since it was required in the assignment instructions. 
 
@@ -102,7 +101,7 @@ I noticed that the printing did not happen immediatlley, and in the printing scr
 
 If youll notice in the first iage above, the display shows not only both designs, but the percentage of completion for the prints. It shows a progress of 76%, as well as the remaining time for the print to finish, which was 3 minutes by the time that picture was taken. if you'd like to see a video progression of the printing, i have a 15 second video available [here](https://github.com/user-attachments/assets/4017d8cb-76a3-4264-b6a5-d051622c9464)
 
-# Finished Product
+## Finished Product
 
 After the 17 minutes, the models were finished and ready to be removed from the printing plate. I was fortunate enough to not have any issues with my ghost- removing it from the plate took no effort and there was no need for the scraper. It did not experience any of the warping i was initially afraid of with the intiial deisgn i almost picked. 
 
@@ -113,7 +112,7 @@ My only qualm, however this is a personal preference that seems unavoidable with
 
 > Ghost Finished Result
 
-# Lessons Learned
+## Lessons Learned
 
 ### 1. Look at Your Slice
 >Only after slicing a design will it gave you the useful information of estimated printing times and how much filiment will be used. Useful information if you are on a time crunch or working with limited materials.
@@ -144,7 +143,7 @@ Something i would have changed throughout this process is probably choosing a mo
 
 Finally, I'd like to recognize Kaileigh Hill for the collaboration of this project as we manufactured our designs together. 
 
-# Resources
+## Resources
 
 [Printables](https://www.printables.com/) - Website I used to browse free 3-D printing designs
 
