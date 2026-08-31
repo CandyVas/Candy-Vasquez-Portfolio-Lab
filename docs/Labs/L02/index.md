@@ -45,9 +45,10 @@ When downloading this model, i noticed that the download was in the format of a 
 
 >Imported Ghost into PrusaSlicer
 
-This was what i was immediately met with after opening said STL file. No supports were needed in this model because it is not a floating design, nor will it overhangs anywhere. The build orientation i decided on was predetermined by the modeler of this object since that is exactly how it showed up when opening the model. on the other side of the design of the halloween face is a flat surface that helps secure it to the build plate.  
+This was what i was immediately met with after opening said STL file. No supports were needed in this model because it is not a floating design, nor will it overhangs anywhere. The build orientation i decided on was predetermined by the modeler of this object since that is exactly how it showed up when opening the model. on the other side of the design of the halloween face is a flat surface that helps secure it to the build plate. Meaning it would be printed flat, like how displayed in the image above. 
 
-it would be printed flat, like how displayed in the image above. I was lucky enough to discover out this print matched most of this assignments requirements, and that i didn't have to do much tinkering when it came to downsizing my model. The only issue i came across was that the z value, the height of the print, surpassed the .25 inch height requirement. Thankfully not by a whole lot, and it was simple to fix. 
+### Scaling
+I was lucky enough to discover out this print matched most of this assignments requirements, and that i didn't have to do much tinkering when it came to downsizing my model. The only issue i came across was that the z value, the height of the print, surpassed the .25 inch height requirement. Thankfully not by a whole lot, and it was simple to fix. 
 
 <img width="414" height="190" alt="image" src="https://github.com/user-attachments/assets/d914cac9-00be-40cf-8ffb-5265d8edb3f3" />
 <img width="210" height="150" alt="image" src="https://github.com/user-attachments/assets/9fac0535-1120-4458-8301-6346c0bdc057" />
@@ -61,6 +62,8 @@ This seems to have automatically scaled down the rest of my model down approxima
 <img width="648" height="240" alt="image" src="https://github.com/user-attachments/assets/d67c96f7-81be-480a-908f-d24d1356c0e5" />
 
 > Scaled Object & Object Manipulation Settings
+
+### Slicing 
 
 After making my alterations with the size, i clicked on the "slice now" button, keeping the default slicer settings. It changed my model from green to an orange highlight. Only after slicing did it give em the estimated time to print and the ability to export my model
 
@@ -91,10 +94,11 @@ We added both our models to the same plate. After both were incorporated and we 
 
 Using the designated USB PC-07 for the printer, the USB was slotted into the laptop in order to export the G-code (available after being sliced). From there we took the usb back into the printer with our designs on it and began the printing process.
 
+### Printing Progress
+
 I noticed that the printing did not happen immediatlley, and in the printing screen that displays the image being printed, it showed an estimate of 4 minutes for the nozzle to heat up. This makes sense since it's essentially melting material to be shaped layer by layer. As the time went on, we continuousl checked on the progress of our models to confirm weverythin was going well. 
 
 <img width="190" height="270" alt="image" src="https://github.com/user-attachments/assets/0fbc2e42-6382-4f90-aafc-d7534dd9e0d7" />
-
 <img width="250" height="230" alt="image" src="https://github.com/user-attachments/assets/bf111767-c27d-43a2-b6f6-8c9750dfd751" />
 
 > Cherry & Ghost Printing Progress
