@@ -100,4 +100,8 @@ Finally, I'd like to recognize Kaileigh Hill as my teammate who worked alongside
 
 (Ghost Keychain Used)[https://www.printables.com/model/288657-halloween-ghost-keychain]
 
-(Rejected Bat wall Decor) 
+(Rejected Bat wall Decor)[https://www.printables.com/model/299289-vintage-halloween-bat-wall-decor]
+
+(PrusaSlicer)[https://www.prusa3d.com/p/prusaslicer/]
+
+UNC Charlotte Rapid Prototyping Lab
