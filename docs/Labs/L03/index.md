@@ -46,7 +46,7 @@ it would be printed flat, like how displayed in the image above. I was lucky eno
 
 This could have been fixed by either using the "Scale" [S] button on the right corner, which allows the user to drag and change the dimensions of their mode. However, i chose the option of simply going to the object manipulation window on the left side of my screen, and reducing my number down to exactly .25. This seems to have automatically scaled down the rest of my model down approximately 79% smaller. This change in size also impacted the print time, albeit a small amount, it makes sense that a smaller object would take less time to make because it wont take up as much room or materials. 
 
-<img width="748" height="263" alt="image" src="https://github.com/user-attachments/assets/d67c96f7-81be-480a-908f-d24d1356c0e5" />
+<img width="648" height="240" alt="image" src="https://github.com/user-attachments/assets/d67c96f7-81be-480a-908f-d24d1356c0e5" />
 
 > Scaled Object & Object Manipulation Settings
 
