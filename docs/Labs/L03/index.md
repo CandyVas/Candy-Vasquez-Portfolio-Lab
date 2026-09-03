@@ -1,15 +1,38 @@
 
 
-# A3 – Print a Design!
+# A3 – Design and Print something small!
 
-# Finding a Design
+## Design
+Document the design process, which includes many pictures with an overview of images at the different stages.
+Detail the steps and reasons/decisions from start to finish. 
 
-We were tasked to download something from the website printables which offers an endless amount of free 3d prints that the public can download and print themselves. In honor of Halloween coming up soon, I wanted to find a design that was spooky, but cute enough to be incorporated into what I normally carry around. 
+by the time the lab rolled around, i was back at base one. i compensated by making atleast making an orb with a flat bottom. I regret deleting my previous designs and putting all  my eggs in one baslet for the angry bird. 
+
+## Research  
+When choosing what infill to choose, i simply looked at PuraSLicers list of options and chose the most interesting names
+i did my reserahc using this [website](https://all3dp.com/2/strongest-infill-pattern/)
+[here](https://help.prusa3d.com/article/infill-patterns_177130)
+
+<img width="329" height="250" alt="Screenshot 2026-09-03 135349" src="https://github.com/user-attachments/assets/2f09d62b-f54e-4f17-9a64-ab531a4617dc" />
+
+> **Concentric**
+>
+
+<img width="367" height="176" alt="image" src="https://github.com/user-attachments/assets/5405367b-fa3d-41f2-9976-49a2de409a79" />
+<img width="2048" height="1536" alt="concentricfinal-1-2048x1536" src="https://github.com/user-attachments/assets/600375dc-4b5f-4411-897c-02a9c91c32d4" />
 
 
+> **Hilbert Curve **
+> 
+<img width="1600" height="1200" alt="983faf27de2f49d0e72493e8cca54505" src="https://github.com/user-attachments/assets/f807dfa6-4a7c-48b1-88c7-96a5de0dfa80" />
+<img width="2048" height="1536" alt="hilbert_curvefinal-2048x1536" src="https://github.com/user-attachments/assets/cbc085e4-ee4a-494d-926b-bff61211a0d4" />
 
-### Rejected Design 
-> **Vintage Halloween Bat Wall Decor**
-> A design that i thought to download but chose not to were these [Bats](https://www.printables.com/model/299289-vintage-halloween-bat-wall-decor) meant for wall decor. I decided not to because in our previous lecture we were discussing FDM considerations and in my research i looked into warping and layer adhesion. I was afraid that printing a flat design would cause the edges to lift, and these are lab printers used by plenty of students, so i didnt want a super thin deisgn to stick to the plate and struggling to take it off. 
+
+> **Zig Zag**
+> 
+
+<img width="430" height="320" alt="image" src="https://github.com/user-attachments/assets/d15c8a1a-184a-47fe-9e79-683927be1490" />
+
+
 
 <img width="130" height="124" alt="image" src="https://github.com/user-attachments/assets/8bb01ba5-0e51-4244-a052-94dbd1418057" />
