@@ -49,7 +49,7 @@ And it was hideous.
 
 ### Attempt 4
 
-At this rate, I figured that this oval-shaped body of the bird was me biting off more than I could chew. So, I scrapped the idea entirely and thought, Why not just keep the circle of the bird and not mold it anymore from there?
+At this rate, I figured that this oval shaped body of the bird was me biting off more than I could chew. So, I scrapped the idea entirely and thought, Why not just keep the circle of the bird and not mold it anymore from there?
 
 Then I thought of the famous Angry Birds series and figured I could base my design on that while still keeping my initial goal of making a bird.
 
@@ -102,14 +102,14 @@ Infill percentage affects the mechanical properties of a print by determining ho
 <img width="130" height="124" alt="hilbert_curvefinal-2048x1536" src="https://github.com/user-attachments/assets/cbc085e4-ee4a-494d-926b-bff61211a0d4" />
 <img width="130" height="124" alt="image" src="https://github.com/user-attachments/assets/c8582e65-590c-4a8f-b45a-e0d4c2ec1cb7" />
 
-> The Hilbert curve creates a rectangular labyrinth-like structure throughout the interior of the part rather than straight grids like most other infills. While it isn't the strongest infill pattern, Hilbert Curve is mainly used for its appearance and aesthetic qualities. For example, the pattern can be used with materials like epoxy to create art.
+> The Hilbert curve creates a rectangular labyrinth structure throughout the interior of the part rather than straight grids like most other infills. While it isn't the strongest infill pattern, Hilbert Curve is mainly used for its appearance and aesthetic qualities. For example, the pattern can be used with materials like epoxy to create art.
 
 ### **Lightning**
 
 <img width="130" height="124" alt="image" src="https://github.com/user-attachments/assets/9026ec98-ea10-4506-b935-e4c80dc7f5f3" />
 <img width="130" height="124" alt="image" src="https://github.com/user-attachments/assets/d15c8a1a-184a-47fe-9e79-683927be1490" />
 
-> Lightning infill creates a branching, tree-like structure. Where instead of filling the entire interior uniformly, the branches become denser near the upper layers of the print. The primary purpose of this infill is to support the top layers while using as little material as possible rather than maximizing mechanical strength.
+> Lightning infill creates a branching, tree like structure. Where instead of filling the entire interior uniformly, the branches become denser near the upper layers of the print. The primary purpose of this infill is to support the top layers while using as little material as possible rather than maximizing mechanical strength.
 
 
 ## Preprocessor and Printing 
@@ -130,13 +130,13 @@ Next, I had to combat the size by putting in the criteria of the assignment, whi
 
 <img width="400" height="200" alt="Screenshot 2026-09-03 131909" src="https://github.com/user-attachments/assets/117e98c5-1ccf-4ec1-bb63-76871a6a6326" />
 
-Now I moved on to the print settings and chose the Infill option to change the inside of my design. I changed it from the default 15% infill with a Grid pattern to 25% infill with a Stars pattern. I chose Stars for no other reason than to compare how it looked compared to the original Grid pattern. The Grid pattern creates kind of like a crisscrossed structure of the lines intersecting at 90 degree angles. The Stars pattern, on the other hand, creates a more geometric appearance with intersecting lines that form star-like shapes. Not only is the Stars pattern more visually interesting, but it gave me the opportunity to see how a different infill pattern would affect the inside of my design.
+Now I moved on to the print settings and chose the Infill option to change the inside of my design. I changed it from the default 15% infill with a Grid pattern to 25% infill with a Stars pattern. I chose Stars for no other reason than to compare how it looked compared to the original Grid pattern. The Grid pattern creates kind of like a crisscrossed structure of the lines intersecting at 90 degree angles. The Stars pattern, on the other hand, creates a more geometric appearance with intersecting lines that form star like shapes. Not only is the Stars pattern more visually interesting, but it gave me the opportunity to see how a different infill pattern would affect the inside of my design.
 
 By now I had sliced my design, and one of the cool features of PrusaSlicer is that it lets you slide through the estimated printing progress. This allowed me to see what the different layers would look like before actually printing the design. Here is where I got to see the Stars design and what the 25% infill would look like.
 
 <img width="400" height="209" alt="image" src="https://github.com/user-attachments/assets/2e30f76e-d780-4380-9a28-ceb74785bb3c" />
 
-I decided to compare this to what a 70% infill would look like. This was not my final product, but it was interesting to compare the difference in how filled-in the design looked. At 70%, there was much less empty space inside the design compared to the 25% version. This also showed me how increasing the infill percentage can make the inside of a print look much denser.
+I decided to compare this to what a 70% infill would look like. This was not my final product, but it was interesting to compare the difference in how filled in the design looked. At 70%, there was much less empty space inside the design compared to the 25% version. This also showed me how increasing the infill percentage can make the inside of a print look much denser.
 
 From here, I exported my design to a G-code file to prepare it for printing.
 
@@ -160,7 +160,7 @@ Throughout the printing process, there were no problems, and the design held wel
 <img width="259" height="208" alt="image" src="https://github.com/user-attachments/assets/0f9dbc26-0e02-42b9-bc20-df6c30523ccc" />
 <img width="209" height="119" alt="image" src="https://github.com/user-attachments/assets/5c0b3f09-c5de-44e8-ad10-ee1217dd70ec" />
 
-This was the final displayed screen. We had a total printing time of 24 minutes, despite the original 17-minute prediction. This was still fairly quick because both of our designs were small and had relatively light infill percentages.
+This was the final displayed screen. We had a total printing time of 24 minutes, despite the original 17 minute prediction. This was still fairly quick because both of our designs were small and had relatively light infill percentages.
 
 When we took the designs off the printing plate, there were no overhangs or structures supporting them because they were flat designs. They were also easy to remove from the plate and slide off without any major issues.
 
@@ -191,7 +191,7 @@ While it definitely wasn't the bird I originally envisioned when I started this 
 + For this project, I chose a 25% infill and left the wall thickness at the default setting. That did not cause any mistakes because the final object was small and wasn't responsible for holding anything important. If I scaled this up to a structural part, however, the consequences could be more serious. A low infill percentage could leave the inside hallow and weak, while an inappropriate wall thickness could make the outer structure too thin. Under a load this would cause my project to bend and break. 
 
 ### Real Product 
-+ A good real-world comparison would be a bridge. When designing a bridge, engineers have to consider the materials, thickness, and internal structure because the bridge has to support its own weight as well as cars, people, and th weather. This is similar to choosing infill and wall thickness for a 3D print. Using too little material or designing the structure incorrectly could make a bridge weaker than intended and potentially cause it to collapse. 
++ A good real world comparison would be a bridge. When designing a bridge, engineers have to consider the materials, thickness, and internal structure because the bridge has to support its own weight as well as cars, people, and th weather. This is similar to choosing infill and wall thickness for a 3D print. Using too little material or designing the structure incorrectly could make a bridge weaker than intended and potentially cause it to collapse. 
 
 ### Time took 
 This assignment took me about 5 hours 
