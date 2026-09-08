@@ -155,7 +155,7 @@ We were tasked with working on Printer 03, and it used PLA filament as its mater
 
 <img width="259" height="208" alt="image" src="https://github.com/user-attachments/assets/efbabc35-aac5-40de-b5e5-d165bf612934" />
 
-Throughout the printing process, there were no problems, and the design held well to the printing plate. Everything printed as expected, which was a nice change after the struggles I had during the design process. Here is a video showing my part being [printed](https://github.com/user-attachments/assets/d765296f-8c3f-46fc-a67e-645f0238c97c)
+Throughout the printing process, there were no problems, and the design held well to the printing plate. Everything printed as expected, which was a nice change after the struggles I had during the design process. Here is a [video showing my part being printed](https://github.com/user-attachments/assets/d765296f-8c3f-46fc-a67e-645f0238c97c)
 
 <img width="259" height="208" alt="image" src="https://github.com/user-attachments/assets/0f9dbc26-0e02-42b9-bc20-df6c30523ccc" />
 <img width="209" height="119" alt="image" src="https://github.com/user-attachments/assets/5c0b3f09-c5de-44e8-ad10-ee1217dd70ec" />
