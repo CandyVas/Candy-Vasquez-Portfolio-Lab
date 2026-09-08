@@ -4,7 +4,7 @@
 
 For this lab, we were tasked to design something small to print while documenting the design process. This was a bit of a struggle because I wanted to make something that I would actually enjoy, but it still had to fit the assignment criteria.
 
-### ATTEPMT 1
+### Attempt 1
 Before starting my design, I knew I wanted to make something based off my favorite animal which are birds. However, I needed it to have a flat bottom so it could actually sit on the print bed without any ovrhangs. Therefore, I tinkered around with Creo for a little bit to remember how to go about creating the shape I wanted.
 
 <img width="259" height="208" alt="Screenshot 2026-09-01 140919" src="https://github.com/user-attachments/assets/464c5d3e-44f8-4890-a646-9505d7013726" />
@@ -28,7 +28,7 @@ Now that the body has been extracted, I went onto repeat the process to make the
 
 This ended up looking heavily disproportionate and was not the look I was aiming for. So, I decided to scrap this one entirely and try another method.
 
-### ATTEPMT 2
+### Attempt 2
 
 For this attempt, instead of adding the extruded sketches on top of one another, I figured I would sketch out the entire body of the bird first and then round it out afterward.
 
@@ -37,7 +37,7 @@ For this attempt, instead of adding the extruded sketches on top of one another,
 
 Here was the sketch successfully extruded. However when I got to the next step of trying to round the features, Creo would not let me make it round enough to the extent that I wanted. So, I moved on to the next attempt.
 
-### ATTEPMT 3
+### Attempt 3
 
 For this attempt I decided to try out SolidWorks. This would be my second time using this program after struggling with my A2 lecture assignment correlated to this class. I figured it wouldn't be so bad, and this would give me another opportunity to explore the program and get more comfortable with it. Essentially, I followed the same steps I took when making the bird in Creo during my first attempt.
 
@@ -47,7 +47,7 @@ For this attempt I decided to try out SolidWorks. This would be my second time u
 
 And it was hideous. 
 
-### ATTEPMT 4
+### Attempt 4
 
 At this rate, I figured that this oval-shaped body of the bird was me biting off more than I could chew. So, I scrapped the idea entirely and thought, Why not just keep the circle of the bird and not mold it anymore from there?
 
@@ -72,7 +72,7 @@ I extruded the rest of the project, confident that I would be able to take a pic
 
 At this point, we had already returned to the lab, and we had the class period to get the project printed. We still don't have access to the 3D printers, so I figured that this project was a lost cause. At that point, I just wanted to get something printed by the end of class, no matter how different it looks from the idea in my head.
 
-### ATTEPMT 5 (sad finale)
+### Attempt 5 (sad finale)
 
 I went back to what was saved from Attempt 1, and all that was left was the first revolve I made in Creo. I figured I just had to work with what I had. I didn't want my partner to be stuck waiting any longer than necessary, so this is what I ended up with.
 
@@ -90,19 +90,22 @@ Infill percentage affects the mechanical properties of a print by determining ho
 
 <img width="170" height="208" alt="Screenshot 2026-09-03 135349" src="https://github.com/user-attachments/assets/2f09d62b-f54e-4f17-9a64-ab531a4617dc" />
 
-> **Concentric**
+### **Concentric**
+
 <img width="170" height="124" alt="image" src="https://github.com/user-attachments/assets/5405367b-fa3d-41f2-9976-49a2de409a79" />
 <img width="130" height="124" alt="concentricfinal-1-2048x1536" src="https://github.com/user-attachments/assets/600375dc-4b5f-4411-897c-02a9c91c32d4" />
 
 > Concentric infill consists of lines that follow the shape of the object's perimeter. Each line becomes smaller toward the center, and it is useful when the geometry/flexibility is more important than maximizing the mechanical strength. Concentric has high reported strength in the Z direction, rather than being uniformly strong in every direction.
 
-> **Hilbert Curve **
+### **Hilbert Curve **
+
 <img width="130" height="124" alt="hilbert_curvefinal-2048x1536" src="https://github.com/user-attachments/assets/cbc085e4-ee4a-494d-926b-bff61211a0d4" />
 <img width="130" height="124" alt="image" src="https://github.com/user-attachments/assets/c8582e65-590c-4a8f-b45a-e0d4c2ec1cb7" />
 
 > The Hilbert curve creates a rectangular labyrinth-like structure throughout the interior of the part rather than straight grids like most other infills. While it isn't the strongest infill pattern, Hilbert Curve is mainly used for its appearance and aesthetic qualities. For example, the pattern can be used with materials like epoxy to create art.
 
-> **Lightning**
+### **Lightning**
+
 <img width="130" height="124" alt="image" src="https://github.com/user-attachments/assets/9026ec98-ea10-4506-b935-e4c80dc7f5f3" />
 <img width="130" height="124" alt="image" src="https://github.com/user-attachments/assets/d15c8a1a-184a-47fe-9e79-683927be1490" />
 
