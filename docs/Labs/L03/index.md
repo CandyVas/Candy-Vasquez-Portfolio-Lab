@@ -198,7 +198,11 @@ This assignment took me about 5 hours
 
 ## Resources
 [PrusaSlicer](https://www.prusa3d.com/p/prusaslicer/) – Used to slice the CAD model
-[BigRep](https://bigrep.com/posts/designing-wall-thickness-for-3d-printing/) - Wall thickness research
+
+[BigRep](https://bigrep.com/posts/designing-wall-thickness-for-3d-printing/) - Wall thickness uses
+
 [All3DP](https://all3dp.com/2/strongest-infill-pattern/) - Infill patterns and their uses
+
 [Prusa Research](https://help.prusa3d.com/article/infill-patterns_177130) - Different types of infill patterns
+
 UNC Charlotte Rapid Prototyping Lab – FDM printer and PLA used to manufacture the part.
