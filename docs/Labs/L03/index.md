@@ -88,7 +88,7 @@ When choosing which infill to use, I simply looked through PrusaSlicer's list of
 ### Infill Percentage vs Pattern
 Infill percentage affects the mechanical properties of a print by determining how much of the interior is filled. A higher infill percentage increases strength and decreases flexibility, but it also increases the amount of material used, the weight of the print, and the overall print time. On the other hand, the infill pattern determines the geometry and direction that the infill is built. However, not all infill patterns are created equally. Some patterns are stronger than others because they distribute forces differently throughout the print.
 
-<img width="170" height="208" alt="Screenshot 2026-09-03 135349" src="https://github.com/user-attachments/assets/2f09d62b-f54e-4f17-9a64-ab531a4617dc" />
+<img width="300" height="400" alt="Screenshot 2026-09-03 135349" src="https://github.com/user-attachments/assets/2f09d62b-f54e-4f17-9a64-ab531a4617dc" />
 
 ### **Concentric**
 
@@ -97,7 +97,7 @@ Infill percentage affects the mechanical properties of a print by determining ho
 
 > Concentric infill consists of lines that follow the shape of the object's perimeter. Each line becomes smaller toward the center, and it is useful when the geometry/flexibility is more important than maximizing the mechanical strength. Concentric has high reported strength in the Z direction, rather than being uniformly strong in every direction.
 
-### **Hilbert Curve **
+### **Hilbert Curve**
 
 <img width="130" height="124" alt="hilbert_curvefinal-2048x1536" src="https://github.com/user-attachments/assets/cbc085e4-ee4a-494d-926b-bff61211a0d4" />
 <img width="130" height="124" alt="image" src="https://github.com/user-attachments/assets/c8582e65-590c-4a8f-b45a-e0d4c2ec1cb7" />
@@ -157,7 +157,7 @@ We were tasked with working on Printer 03, and it used PLA filament as its mater
 
 Throughout the printing process, there were no problems, and the design held well to the printing plate. Everything printed as expected, which was a nice change after the struggles I had during the design process. Here is a video showing my part being [printed](https://github.com/user-attachments/assets/d765296f-8c3f-46fc-a67e-645f0238c97c)
 
-<img width="381" height="263" alt="image" src="https://github.com/user-attachments/assets/0f9dbc26-0e02-42b9-bc20-df6c30523ccc" />
+<img width="259" height="208" alt="image" src="https://github.com/user-attachments/assets/0f9dbc26-0e02-42b9-bc20-df6c30523ccc" />
 <img width="209" height="119" alt="image" src="https://github.com/user-attachments/assets/5c0b3f09-c5de-44e8-ad10-ee1217dd70ec" />
 
 This was the final displayed screen. We had a total printing time of 24 minutes, despite the original 17-minute prediction. This was still fairly quick because both of our designs were small and had relatively light infill percentages.
@@ -176,13 +176,13 @@ While it definitely wasn't the bird I originally envisioned when I started this 
 
 ## Lessons Learned
 ### Personal Lessons 
-The biggest lessons I learned from this project was to **SAVE YOUR PROGRESS.** Even if you think you're going to scrap a design, it's still worth saving. My biggest mistake was not saving enough versions, which became a problem when SolidWorks crashed and reverted my progress back to the sketch phase.
++ The biggest lessons I learned from this project was to **SAVE YOUR PROGRESS.** Even if you think you're going to scrap a design, it's still worth saving. My biggest mistake was not saving enough versions, which became a problem when SolidWorks crashed and reverted my progress back to the sketch phase.
 
-Another lesson I learned was to become more familiar with the programs before immediately giving up on a design. I was very quick to move on to another attempt whenever I couldn't figure out how to create the exact shape I wanted. Instead of stopping and figuring out how the tools worked, I tried to work around the problem by changing my entire design.
++ Another lesson I learned was to become more familiar with the programs before immediately giving up on a design. I was very quick to move on to another attempt whenever I couldn't figure out how to create the exact shape I wanted. Instead of stopping and figuring out how the tools worked, I tried to work around the problem by changing my entire design.
 
-Compared to the first time I 3D printed something, i now know so much more about structural integrity of a design and that different infills have different purposes. Some are designed for strength, some for saving material, and others are mainly for appearance.
++ Compared to the first time I 3D printed something, i now know so much more about structural integrity of a design and that different infills have different purposes. Some are designed for strength, some for saving material, and others are mainly for appearance.
 
-Finally, it's important to consider what the part is actually being built for. A design that works for a small desk object might not work for a larger or structural part. Things like infill, wall thickness, material, and size should all be chosen based on what the final part needs to handle.
++ Finally, it's important to consider what the part is actually being built for. A design that works for a small desk object might not work for a larger or structural part. Things like infill, wall thickness, material, and size should all be chosen based on what the final part needs to handle.
 
 ### Mistakes 
 A mistake I might not have caught was the wall thickness. I left it at the default setting without actually testing whether it was the best choice. It worked for this small object, but it could have been too weak for a different design. In the future, I would check the dimensions, orientation, wall thickness, infill, and layer preview before exporting the final G-code.
