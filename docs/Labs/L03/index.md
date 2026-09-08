@@ -185,13 +185,13 @@ While it definitely wasn't the bird I originally envisioned when I started this 
 + Finally, it's important to consider what the part is actually being built for. A design that works for a small desk object might not work for a larger or structural part. Things like infill, wall thickness, material, and size should all be chosen based on what the final part needs to handle.
 
 ### Mistakes 
-A mistake I might not have caught was the wall thickness. I left it at the default setting without actually testing whether it was the best choice. It worked for this small object, but it could have been too weak for a different design. In the future, I would check the dimensions, orientation, wall thickness, infill, and layer preview before exporting the final G-code.
++ A mistake I might not have caught was the wall thickness. I left it at the default setting without actually testing whether it was the best choice. It worked for this small object, but it could have been too weak for a different design. In the future, I would check the dimensions, orientation, wall thickness, infill, and layer preview before exporting the final G-code.
 
 ### Scaled up
-For this project, I chose a 25% infill and left the wall thickness at the default setting. That did not cause any mistakes because the final object was small and wasn't responsible for holding anything important. If I scaled this up to a structural part, however, the consequences could be more serious. A low infill percentage could leave the inside hallow and weak, while an inappropriate wall thickness could make the outer structure too thin. Under a load this would cause my project to bend and break. 
++ For this project, I chose a 25% infill and left the wall thickness at the default setting. That did not cause any mistakes because the final object was small and wasn't responsible for holding anything important. If I scaled this up to a structural part, however, the consequences could be more serious. A low infill percentage could leave the inside hallow and weak, while an inappropriate wall thickness could make the outer structure too thin. Under a load this would cause my project to bend and break. 
 
 ### Real Product 
-A good real-world comparison would be a bridge. When designing a bridge, engineers have to consider the materials, thickness, and internal structure because the bridge has to support its own weight as well as cars, people, and th weather. This is similar to choosing infill and wall thickness for a 3D print. Using too little material or designing the structure incorrectly could make a bridge weaker than intended and potentially cause it to collapse. 
++ A good real-world comparison would be a bridge. When designing a bridge, engineers have to consider the materials, thickness, and internal structure because the bridge has to support its own weight as well as cars, people, and th weather. This is similar to choosing infill and wall thickness for a 3D print. Using too little material or designing the structure incorrectly could make a bridge weaker than intended and potentially cause it to collapse. 
 
 ### Time took 
 This assignment took me about 5 hours 
