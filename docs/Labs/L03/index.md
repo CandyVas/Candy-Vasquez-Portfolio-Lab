@@ -155,9 +155,7 @@ We were tasked with working on Printer 03, and it used PLA filament as its mater
 
 <img width="259" height="208" alt="image" src="https://github.com/user-attachments/assets/efbabc35-aac5-40de-b5e5-d165bf612934" />
 
-Throughout the printing process, there were no problems, and the design held well to the printing plate. Everything printed as expected, which was a nice change after the struggles I had during the design process.
-
-https://github.com/user-attachments/assets/d765296f-8c3f-46fc-a67e-645f0238c97c 
+Throughout the printing process, there were no problems, and the design held well to the printing plate. Everything printed as expected, which was a nice change after the struggles I had during the design process. Here is a video showing my part being [printed](https://github.com/user-attachments/assets/d765296f-8c3f-46fc-a67e-645f0238c97c)
 
 <img width="381" height="263" alt="image" src="https://github.com/user-attachments/assets/0f9dbc26-0e02-42b9-bc20-df6c30523ccc" />
 <img width="209" height="119" alt="image" src="https://github.com/user-attachments/assets/5c0b3f09-c5de-44e8-ad10-ee1217dd70ec" />
@@ -167,7 +165,7 @@ This was the final displayed screen. We had a total printing time of 24 minutes,
 When we took the designs off the printing plate, there were no overhangs or structures supporting them because they were flat designs. They were also easy to remove from the plate and slide off without any major issues.
 
 
-### final Product 
+### Final Product 
 After a successful print, this is what I was left with.
 
 While it definitely wasn't the bird I originally envisioned when I started this project, I was still happy to have a finished product. Considering how many different attempts I went through during the design process, actually getting something printed felt like an accomplishment in itself. The final print also gave me a better understanding of how the decisions I made in the design and slicing stages affected the physical object.
@@ -177,7 +175,7 @@ While it definitely wasn't the bird I originally envisioned when I started this 
 
 
 ## Lessons Learned
-### personal lessons 
+### Personal Lessons 
 The biggest lessons I learned from this project was to **SAVE YOUR PROGRESS.** Even if you think you're going to scrap a design, it's still worth saving. My biggest mistake was not saving enough versions, which became a problem when SolidWorks crashed and reverted my progress back to the sketch phase.
 
 Another lesson I learned was to become more familiar with the programs before immediately giving up on a design. I was very quick to move on to another attempt whenever I couldn't figure out how to create the exact shape I wanted. Instead of stopping and figuring out how the tools worked, I tried to work around the problem by changing my entire design.
@@ -189,7 +187,7 @@ Finally, it's important to consider what the part is actually being built for. A
 ### Mistakes 
 A mistake I might not have caught was the wall thickness. I left it at the default setting without actually testing whether it was the best choice. It worked for this small object, but it could have been too weak for a different design. In the future, I would check the dimensions, orientation, wall thickness, infill, and layer preview before exporting the final G-code.
 
-### Scaled up? 
+### Scaled up
 For this project, I chose a 25% infill and left the wall thickness at the default setting. That did not cause any mistakes because the final object was small and wasn't responsible for holding anything important. If I scaled this up to a structural part, however, the consequences could be more serious. A low infill percentage could leave the inside hallow and weak, while an inappropriate wall thickness could make the outer structure too thin. Under a load this would cause my project to bend and break. 
 
 ### Real Product 
