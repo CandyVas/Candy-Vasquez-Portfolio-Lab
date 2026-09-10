@@ -70,6 +70,17 @@ Your calculated tolerance compared to the documented plus or minus 0.3 percent
 Which gauge sizes passed and which failed
 
 ## Lessons Learned
+The outcome was the same as what I originally thought. However after reading more into it, i wish i wouldve experimented with tolerances and multiple pins. 
+
+This [website](https://www.sovol3d.com/blogs/news/fdm-3d-printing-tolerances-clearances-how-to-design-parts-that-fit) discusses the measurements for a press fit, sliding fit, snap fit, so on so forth. After reading it more, my rsults were fairly accurate. They also say that PLA is an excellent fit for this kind of project, which was conveniently the exact material i used. 
+
+One thing tht i failed with in this design was the extrusion of my ltters which identfied what size each hole was. Its wrapped together which makes me assume that either the closeness made it met, or that the letters were too small for it to print priperly. That was not something i kept in mind when designing, but i will consider it for future projects. 
+
+
+Was the outcome different than what you originally thought?
+Compare your result to the FDM row of the class design rules chart. Did your result match, exceed, or fall short of the documented spec, and why?
+Detailed lessons learned and things you would change throughout the process. You should identify a minimum of four things. Be specific, and use articulate engineering, 3D printing, and design language.
+Actual time it took from start to finish.
 
 ## Resources 
-
+[SOLOV](https://www.sovol3d.com/blogs/news/fdm-3d-printing-tolerances-clearances-how-to-design-parts-that-fit)
