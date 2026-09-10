@@ -49,7 +49,25 @@ For this design i decide to be adventourous and change the vertical shell peramt
 
 After these design choices, i sliced my part which resulted in this screen
 
+<img width="617" height="197" alt="image" src="https://github.com/user-attachments/assets/ce6feb1f-7016-4c4a-aead-88585df0288f" />
+I was given a estimated tome of 30 minutes which was a little shockig, but after looking at the cross section, gyroid is a pretty intricate design compared to the grid infill that im used to. I decided to compare it to a 25% grid infill to see if the time was faster and not to anyones surprise, it is slightly faster, but not by a whole lot
+
+<img width="491" height="358" alt="image" src="https://github.com/user-attachments/assets/6c5e10a9-7d2c-4ef6-9eb9-a31eb4a170aa" />
+<img width="578" height="192" alt="image" src="https://github.com/user-attachments/assets/96ca30b5-0d4f-437b-bf76-ed45684a0854" />
+
+From there i exported my original gyroid infilled gauge tester as a G-code file to get ready to physically print it. 
+
 ## Print Artifact 
+
+ Print the gauge, measure the actual dimensions, and calculate your printer's real tolerance. Compare it directly to that spec.
+
+My prediction of the print is to be expected, i think the middle hole will fit perfect, one end will be really lose and the other too tight. 
+
+AFter successfully printing my part, i decided to go even further and measure the dimensions of the gauges with a caliper. 
+
+Your calculated tolerance compared to the documented plus or minus 0.3 percent
+
+Which gauge sizes passed and which failed
 
 ## Lessons Learned
 
