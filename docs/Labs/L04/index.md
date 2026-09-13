@@ -82,11 +82,15 @@ For example...
 
 
 <img width="282" height="194" alt="Screenshot 2026-09-13 142152" src="https://github.com/user-attachments/assets/f2884a7d-1fbd-4aa1-970f-7d82f6b03715" />
+
 > Once I was ready to print, I used the printer belonging to PC-07 because it uses PLA as its printing material, which was the material I selected for my G-code.
 
 WAtch the video of it beig printed [here](https://github.com/user-attachments/assets/3427958a-d2df-4641-a2cd-e4be76187d06) 
+https://github.com/user-attachments/assets/3427958a-d2df-4641-a2cd-e4be76187d06 
+
 <img width="213" height="249" alt="image" src="https://github.com/user-attachments/assets/eca0199b-d513-41c1-944f-32109e5da41f" />
 <img width="197" height="143" alt="image" src="https://github.com/user-attachments/assets/8661704d-88e5-444c-9f25-1b9d5ad77462" />
+
 > The print successfully completed and was removed from the printing plate.
 
 
@@ -96,11 +100,12 @@ WAtch the video of it beig printed [here](https://github.com/user-attachments/as
 After removing the gauge from the print plate, I decided to go a step further and measure the dimensions of the holes using a caliper. This proved to be somewhat difficult because the increments between some of the holes were extremely small.
 
 Even though the differences were not drastic, the caliper showed that there were small dimensional changes between the holes. Because the increments were so small, even moving the caliper slightly could change the measurement. This demonstrated one of the challenges of measuring small tolerances manually.
-<img width="296" height="287" alt="image" src="https://github.com/user-attachments/assets/51b56170-4387-4479-a293-c5a229f9087f" />
-<img width="329" height="287" alt="image" src="https://github.com/user-attachments/assets/19c2aff3-d428-43fb-a826-9bf54654044b" />
-<img width="311" height="251" alt="image" src="https://github.com/user-attachments/assets/47fd92e7-2afe-4fb2-a8cf-1b866245484e" />
-<img width="419" height="283" alt="image" src="https://github.com/user-attachments/assets/daab1c88-d5eb-4ec6-990e-b4a9d288adc7" />
-<img width="460" height="271" alt="image" src="https://github.com/user-attachments/assets/fda47568-620e-44b6-9595-e310cb893c39" />
+
+<img width="296" height="261" alt="image" src="https://github.com/user-attachments/assets/51b56170-4387-4479-a293-c5a229f9087f" />
+<img width="296" height="261" alt="image" src="https://github.com/user-attachments/assets/19c2aff3-d428-43fb-a826-9bf54654044b" />
+<img width="296" height="261" alt="image" src="https://github.com/user-attachments/assets/47fd92e7-2afe-4fb2-a8cf-1b866245484e" />
+<img width="296" height="261" alt="image" src="https://github.com/user-attachments/assets/daab1c88-d5eb-4ec6-990e-b4a9d288adc7" />
+<img width="296" height="261" alt="image" src="https://github.com/user-attachments/assets/fda47568-620e-44b6-9595-e310cb893c39" />
 
 <img width="296" height="261" alt="image" src="https://github.com/user-attachments/assets/fb19ff59-74c8-46cd-8da1-71e8fa22610a" />
 
@@ -119,17 +124,14 @@ I would say that the printer exceeded the documented FDM specification. The clas
 ### 4 lessons 
 + Test more tolerances: I would use more holes with smaller increments around the successful range, such as 5.15 mm, 5.20 mm, 5.25 mm, and 5.30 mm.
 Use multiple pins: I would test multiple pin sizes instead of only using a 5 mm pin. This would give me a better understanding of the actual clearance between the pin and holes.
-+ Improve the lettering: The letters identifying the hole sizes ended up somewhat blended together. I think the spacing was too close or the letters were too small for the printer to reproduce properly. Even though they did not print perfectly, they were still useful for identifying which hole was which.
-+ Record more measurements: I would record the actual measured diameter of every hole and compare it to the original CAD dimension. This would give me a better idea of the printer's dimensional accuracy.
++ Improve the lettering: The letters identifying the hole sizes ended up somewhat blended together. I think the spacing was too close or the letters were too small for the printer to reproduce properly . Even though they did not print perfectly, they were still useful for identifying which hole was which.
++ After researching FDM tolerances more, I wish I would have experimented with multiple pins instead of only using one 5 mm pin. Having several pins with slightly different diameters would allow me to test the gauge from both directions.
 + Limit repeated testing: Repeatedly moving the pin through the same hole changed the friction and made the fit less consistent. I would try to limit this or use multiple test pieces.
 
 ### Time took
 The print itself took approximately 36 minutes, according to PrusaSlicer. The full project took 4 hours. 
 
 ## Resources 
+
 [SOLOV](https://www.sovol3d.com/blogs/news/fdm-3d-printing-tolerances-clearances-how-to-design-parts-that-fit)
-
-
-https://github.com/user-attachments/assets/3427958a-d2df-4641-a2cd-e4be76187d06 
-
 Design Rules for 3D Printing PDF
