@@ -85,7 +85,7 @@ For example...
 
 > Once I was ready to print, I used the printer belonging to PC-07 because it uses PLA as its printing material, which was the material I selected for my G-code.
 
-WAtch the video of it beig printed [here](https://github.com/user-attachments/assets/3427958a-d2df-4641-a2cd-e4be76187d06) 
+Watch the video of it being printed [here :)](https://github.com/user-attachments/assets/3427958a-d2df-4641-a2cd-e4be76187d06) 
 https://github.com/user-attachments/assets/3427958a-d2df-4641-a2cd-e4be76187d06 
 
 <img width="213" height="249" alt="image" src="https://github.com/user-attachments/assets/eca0199b-d513-41c1-944f-32109e5da41f" />
