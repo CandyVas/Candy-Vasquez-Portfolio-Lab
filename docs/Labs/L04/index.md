@@ -101,13 +101,13 @@ After removing the gauge from the print plate, I decided to go a step further an
 
 Even though the differences were not drastic, the caliper showed that there were small dimensional changes between the holes. Because the increments were so small, even moving the caliper slightly could change the measurement. This demonstrated one of the challenges of measuring small tolerances manually.
 
-<img width="296" height="261" alt="image" src="https://github.com/user-attachments/assets/51b56170-4387-4479-a293-c5a229f9087f" />
-<img width="296" height="261" alt="image" src="https://github.com/user-attachments/assets/19c2aff3-d428-43fb-a826-9bf54654044b" />
-<img width="296" height="261" alt="image" src="https://github.com/user-attachments/assets/47fd92e7-2afe-4fb2-a8cf-1b866245484e" />
-<img width="296" height="261" alt="image" src="https://github.com/user-attachments/assets/daab1c88-d5eb-4ec6-990e-b4a9d288adc7" />
-<img width="296" height="261" alt="image" src="https://github.com/user-attachments/assets/fda47568-620e-44b6-9595-e310cb893c39" />
+<img width="150" height="120" alt="image" src="https://github.com/user-attachments/assets/51b56170-4387-4479-a293-c5a229f9087f" />
+<img width="150" height="120" alt="image" src="https://github.com/user-attachments/assets/19c2aff3-d428-43fb-a826-9bf54654044b" />
+<img width="150" height="120" alt="image" src="https://github.com/user-attachments/assets/47fd92e7-2afe-4fb2-a8cf-1b866245484e" />
+<img width="150" height="120" alt="image" src="https://github.com/user-attachments/assets/daab1c88-d5eb-4ec6-990e-b4a9d288adc7" />
+<img width="150" height="120" alt="image" src="https://github.com/user-attachments/assets/fda47568-620e-44b6-9595-e310cb893c39" />
 
-<img width="296" height="261" alt="image" src="https://github.com/user-attachments/assets/fb19ff59-74c8-46cd-8da1-71e8fa22610a" />
+<img width="150" height="120" alt="image" src="https://github.com/user-attachments/assets/fb19ff59-74c8-46cd-8da1-71e8fa22610a" />
 
 I then tested the 5 mm pin against each of the holes in my design. When comparing the pin to the holes, the results were somewhat different from my original prediction. The 5.05 mm hole was too small for the pin, as expected. The 5.40 mm hole was also too large, allowing the pin to pass through very easily. However, the 5.30 mm hole was also loose enough that the pin could slip completely through. This was slightly different from my original prediction, since I expected the 5.30 mm hole to be loose but not loose enough to pass through completely. 
 
