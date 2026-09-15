@@ -133,5 +133,5 @@ The print itself took approximately 36 minutes, according to PrusaSlicer. The fu
 
 ## Resources 
 
-[SOLOV](https://www.sovol3d.com/blogs/news/fdm-3d-printing-tolerances-clearances-how-to-design-parts-that-fit)
-Design Rules for 3D Printing PDF
++ [SOLOV](https://www.sovol3d.com/blogs/news/fdm-3d-printing-tolerances-clearances-how-to-design-parts-that-fit)
++ Design Rules for 3D Printing PDF
