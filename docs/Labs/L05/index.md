@@ -9,6 +9,7 @@ Print the two components. On of the components needs to have support material.
 Test the snap fit.
 Iterate if needed.
 
+The design i decided to go with was a snap on fit, more specifically 
 ## Modeling
 When modeling the components ___ 
 I decided that my snap-fit project will be made of PLA the 3d printing material, 
