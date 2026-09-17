@@ -117,6 +117,13 @@ Based on what you find, does your chosen orientation for the flexure line up wit
 
 > finally i added a cyllinder to hold the clasper. I was careful to not let it exceed the sup, becayse if it did it would get in the way of the snap in part. I ensured this by making the part see though so i ca tell har far the piece was going. 
 
-> 
+<img width="363" height="327" alt="Screenshot 2026-09-17 152032" src="https://github.com/user-attachments/assets/042c0932-84b1-4de8-93d1-cb9d521f2dc5" />
+<img width="360" height="272" alt="Screenshot 2026-09-17 152109" src="https://github.com/user-attachments/assets/be8162ca-19ca-431c-98b0-45ebb2030d31" />
+
+
+<img width="429" height="264" alt="Screenshot 2026-09-17 152259" src="https://github.com/user-attachments/assets/2792b6b4-ead4-41df-8782-89215cab1302" />
+<img width="356" height="298" alt="Screenshot 2026-09-17 152356" src="https://github.com/user-attachments/assets/a193cb05-cc4d-42a6-9a5f-6ade071433df" />
+
+> Finally, with the design done it was translated one final time bakc into place and it fit. 
 ## Test
 
