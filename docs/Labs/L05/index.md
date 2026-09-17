@@ -14,7 +14,19 @@ The design i decided to go with was a snap on fit, more specifically
 When modeling the components ___ 
 I decided that my snap-fit project will be made of PLA the 3d printing material, 
 
-After [researching](https://www.makeitfrom.com/material-properties/Polylactic-Acid-PLA-Polylactide) the common Young's Modulus and yield strength of PLA (aka  Common Polylactic acid), I got Young's Modulus to be 3.5 GPa (3,500 MPa) and a yield/tensile strength of about 50 MPa. From there, i made sure to use a Safety factor of 3.5. As for the transverse load, we were tasked between a load of .25 lbf - 5 lbf. The load that i chose was __. That way, i can choose the dimensions of my snap-fit, since it will depend on the flexing using the chosen load. If i did this correctly, then the axial load of the clip should be in between 5 lbf - 10 lbf.
+After [researching](https://www.makeitfrom.com/material-properties/Polylactic-Acid-PLA-Polylactide) the common Young's Modulus and yield strength of PLA (aka  Common Polylactic acid), I got Young's Modulus to be 3.5 GPa (3,500 MPa) and a yield/tensile strength of about 50 MPa. From there, i made sure to use a Safety factor of 3.5. As for the transverse load, we were tasked between a load of .25 lbf - 5 lbf. 
+
+since i am a visual learner,i decided to go into solidworks first and foremost to decide the lengths id be dealing with. I wanted something proportional,  
+Initially chose the width and base of the flexure.
+
++ 80 mm
++ 40 mm
++ 20 mm
++ 
+Solve  the length of the flexure using the beam equation for cantilever beam with a concentrated load at the free end.
+Generate a separate FBD of each component.
+
+That way, i can choose the dimensions of my snap-fit, since it will depend on the flexing using the chosen load. If i did this correctly, then the axial load of the clip should be in between 5 lbf - 10 lbf.
 
 Using my answer from above, I decided to choose the initial width of __ and a base of __ of the flexure. 
 
