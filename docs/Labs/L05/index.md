@@ -3,7 +3,7 @@
 
 ## Objective 
 
-We were given a list of options of potential snip fit designs we could create in a CAD program. I decided to go with the ball joint example. This was dsigned first and froemnt before continuing on with the poject, so i noticed that my ball-and-socket design does not align with the modeling portion of this project. Especially since the desugn requires supports, i decided to go with a ball and joint, because i imagined making another style would be difficult to built with support.  So instead of having dedicated cantilever dimenions, i figured I'd make them up for the modeling aspect of my website.
+We were given a list of options for potential snap-fit designs that we could create in a CAD program. I decided to go with the ball-and-joint example. This was designed first and foremost before continuing on with the project, so I noticed that my ball-and-socket design does not perfectly align with the modeling portion of this project. Especially since the design requires supports, I decided to go with a ball and joint because I imagined making another style would be more difficult to build with supports. So instead of having dedicated cantilever dimensions from the beginning, I decided to make up my own dimensions for the modeling aspect of my website and then use the engineering equations to see if my dimensions would work.
 
 ## Modeling
 
@@ -152,11 +152,16 @@ One of the main mistakes was assuming tha prusa was going to add the supports fo
 
 <img width="466" height="349" alt="image" src="https://github.com/user-attachments/assets/805b61ef-b79d-479b-bcb7-b38285563b64" />
 
-
 On a better note, one thing I learned that the direction of the FDM parts and layers matters when designing a load-bearing part. Orientation should be selected based on the expected load. For my ball-and-joint snap-fit, printing the part sideways meant that the pulling force would not try to separate the layers from one another. Also next time, not only will i add more clearance between two parts, but ill even print them seperatley. 
 
 The project took me about 5 hours from start to finish.
 
 ## Recources 
 
-hi
+[PrusaSlicer](https://www.prusa3d.com/p/prusaslicer/) – Used to slice the CAD model
+
+[ProtoLabs Network](https://www.hubs.com/knowledge-base/how-does-part-orientation-affect-3d-print/) - Helped me determine the build orientation of my part
+
+UNC Charlotte Rapid Prototyping Lab – FDM printer and PLA used to manufacture the part.
+
+[MakeItFrom](https://www.makeitfrom.com/material-properties/Polylactic-Acid-PLA-Polylactide) - PLA young modulus and tensile strength. 
