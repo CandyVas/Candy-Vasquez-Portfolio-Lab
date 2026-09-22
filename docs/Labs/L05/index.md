@@ -2,19 +2,12 @@
 
 
 ## Objective 
-Parametrically design an assembly of two constituents which snap fit together.
-Use parameters in CAD
-Use constraints in CAD
-Print the two components. On of the components needs to have support material.
-Test the snap fit.
-Iterate if needed.
 
-The design i decided to go with was a snap on fit, more specifically 
+We were given a list of options of potential snip fit designs we could create in a CAD program. I decided to go with the ball joint example. This was dsigned first and froemnt before continuing on with the poject, so i noticed that my ball-and-socket design does not align with the modeling portion of this project. Especially since the desugn requires supports, i decided to go with a ball and joint, because i imagined making another style would be difficult to built with support.  So instead of having dedicated cantilever dimenions, i figured I'd make them up for the modeling aspect of my website.
+
 ## Modeling
-When modeling the components ___ 
-I decided that my snap-fit project will be made of PLA the 3d printing material, 
 
-After [researching](https://www.makeitfrom.com/material-properties/Polylactic-Acid-PLA-Polylactide) the common Young's Modulus and yield strength of PLA (aka  Common Polylactic acid), I got Young's Modulus to be 3.5 GPa (3,500 MPa) and a yield/tensile strength of about 50 MPa. From there, i made sure to use a Safety factor of 3.5. As for the transverse load, we were tasked between a load of .25 lbf - 5 lbf.  The axial load of the clip should be in between 5 lbf - 10 lbf.
+I decided that my snap-fit project will be made of PLA the 3d printing material, After [researching](https://www.makeitfrom.com/material-properties/Polylactic-Acid-PLA-Polylactide) the common Young's Modulus and yield strength of PLA (aka  Common Polylactic acid), I got Young's Modulus to be 3.5 GPa (3,500 MPa) and a yield/tensile strength of about 50 MPa. From there, i made sure to use a Safety factor of 3.5. As for the transverse load, we were tasked between a load of .25 lbf - 5 lbf.  The axial load of the clip should be in between 5 lbf - 10 lbf.
 
 For my knowns i have
 
@@ -30,17 +23,11 @@ For my knowns i have
 
 To start this design, initially we should choose the width and base of the flexure. Since i am a visual learner,i decided to go into solidworks first and foremost to decide the lengths id be dealing with. I wanted something proportional
 
-  +  Base: b = .5 in
+  +  Base: b = 10 mm
 
-  +  Width: h = .3 in
+  +  thickness: t = 2 mm
   
-Solve  the length of the flexure using the beam equation for cantilever beam with a concentrated load at the free end.
-
-since the desugn requirements requires supports, i decided to go with a ball and joint, because i imagined making another style would be difficult to built with support. 
-
-since they are asking for the stress to be lower than the safety factor, i ended up choosing a load of 5 lbf 
-
-The equation appropriate for this was found in the lecture slides. Since a cantilever is fixed at one ejd, and the load is concentrated at the very end, i used the second equation in this graph. 
+We are meant to solve for thr length of the flexure using the beam equation for cantilever beam with a concentrated load at the free end. The equation appropriate for this was found in the lecture slides. Since a cantilever is fixed at one ejd, and the load is concentrated at the very end, i used the second equation in this graph. 
 
 <img width="545" height="293" alt="Screenshot 2026-09-15 211140" src="https://github.com/user-attachments/assets/1e844484-1be6-4052-8d09-bf5e5480d4a3" />
 
@@ -56,20 +43,18 @@ I then solved for the length of the flexure using the beam equation for cantilev
 
 Here I have provided a separate FBD of each component.
 
-Make sure the stress is less than the strength of material and SF. Admittedly i dont understand this 
+The required axial load is between 5 and 10 lbf. The worst-case value of 10 lbf will be used.
 
->Determine the bending stress of the flexure component using appropriate force. Make sure the stress is less than the strength of material and SF.
->Determine the axial stress of the flexure with an appropriate load.
->Determine the average shear stress of the flexure protrusion.
+
+
+However when reading back the assignment- one of the requirements say "Make sure the stress is less than the strength of material and SF". When adding my stresses, i got 15.56 MPa which is greater than the allowable 14.29 MPa. So if the 5-lbf transverse load and 10-lbf axial load occur at the same critical section, my sizes for the flexure would not meet the 3.5 safety-factor requirement. However indivisially, they pass just fine. *Lesson learned and what i could do to fix that*
+
 
 ## Parametrically design
 
+When creating my CAD file, I used a parametric approach so that the model could be modified during the design process. Instead of manually changing every dimension whenever the size of the part changed, I created relationships between the dimensions which allowed the dimensions to update automatically when one of the primary dimensions was changed.
 
-## 3D printing
-
-A [source](https://www.hubs.com/knowledge-base/how-does-part-orientation-affect-3d-print/)  that discusses how build orientation affects the strength of an FDM printed part. 
-
-Based on what you find, does your chosen orientation for the flexure line up with what the research recommends for a part under bending load? Explain your answer in a short paragraph in your Research section.
+For example, In the picture below you will see how I initially made the main dimensions equal to one another to achieve the cube shape. I then created linked dimensions between Sketch 1 and Sketch 2, so that when the primary dimension in Sketch 1 is changed, the corresponding dimension in Sketch 2 changes proportionally. This helped keep the two sides of the snap-fit consistent and prevented the geometry from becoming distorted during iterations.
 
 <img width="392" height="288" alt="Screenshot 2026-09-17 141804" src="https://github.com/user-attachments/assets/782961f8-f528-416f-a676-fddce9b83f81" />
 
@@ -124,6 +109,11 @@ Based on what you find, does your chosen orientation for the flexure line up wit
 <img width="429" height="264" alt="Screenshot 2026-09-17 152259" src="https://github.com/user-attachments/assets/2792b6b4-ead4-41df-8782-89215cab1302" />
 <img width="356" height="298" alt="Screenshot 2026-09-17 152356" src="https://github.com/user-attachments/assets/a193cb05-cc4d-42a6-9a5f-6ade071433df" />
 
-> Finally, with the design done it was translated one final time bakc into place and it fit. 
+> Finally, with the design done it was translated one final time bakc into place and it fit.
+
+## 3D printing
+
+A [source](https://www.hubs.com/knowledge-base/how-does-part-orientation-affect-3d-print/)  that discusses how build orientation affects the strength of an FDM printed part. 
+
 ## Test
 
