@@ -111,9 +111,23 @@ For example, In the picture below you will see how I initially made the main dim
 
 > Finally, with the design done it was translated one final time bakc into place and it fit.
 
-## 3D printing
+## 3D printing & Testing
 
-A [source](https://www.hubs.com/knowledge-base/how-does-part-orientation-affect-3d-print/)  that discusses how build orientation affects the strength of an FDM printed part. 
+I used this[source](https://www.hubs.com/knowledge-base/how-does-part-orientation-affect-3d-print/) to determine my build orientation and how it would affect the strength of my snap-fit. The strength of 3D print depends on the direction in which they are printed, and the article states that FDM parts are much stronger within the XY plane than in the Z direction because the bond between printed layers is weaker than the material within the layers. 
 
-## Test
+THis helped me decide my orientation, since I designed the snap-fit as a ball-and-joint sideways, rather than standing it vertically. The primary reason for my build orientation was strength, because if the ball-and-joint had been printed in the direction of the pulling force, the layers could have been more vulnerable to separating when the two pieces were pulled apart. By printing it sideways, I oriented the stronger in-plane material paths to better resist the applied load.
 
+I chose to lay the ball-and-joint sideways on the build plate. One reason for this was that the ball is round (duh) so placing it sideways allowed the build to be supported by the plate instead of trying to balance with a large unsupported portion.
+
+I chose to use a support strategy only where it was necessary to stabilize the geometry during printing. The main reason was the spherical shape of the ball. Because the ball has curved surfaces, some areas can become difficult for an FDM printer to build without support. I kept it plain and simple and used the auomatic suport feature provided by PrusaSlicer. 
+
+### Mistakes 
+One of the main mistakes was assuming tha prusa was going to add the supports for me. My first attempt at printing was a major fail since i didnt add supports, and it ended up in a tangled mess of melted plastic. After that disappointinf first try, I  had to consider how the curved ball would be supported during printing. A spherde does not have a large flat surface, so its orientation affects both stability and the amount of support required. 
+
+On a better note, one think I learned that the direction of the FDM parts and layers matters when designing a load-bearing part. Orientation should be selected based on the expected load. For my ball-and-joint snap-fit, printing the part sideways meant that the pulling force would not try to separate the layers from one another. 
+
+The project took me about 5 hours from start to finish.
+
+## Recources 
+
+hi
