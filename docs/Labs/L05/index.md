@@ -63,6 +63,7 @@ For example, In the picture below you will see how I initially made the main dim
 <img width="494" height="317" alt="Screenshot 2026-09-17 141827" src="https://github.com/user-attachments/assets/1affd6ca-6bac-4cdf-801e-0c56b93f00f7" />
 <img width="409" height="287" alt="Screenshot 2026-09-17 141908" src="https://github.com/user-attachments/assets/246659ec-7bcf-4266-9d3d-affd1055937d" />
 <img width="425" height="284" alt="Screenshot 2026-09-17 141959" src="https://github.com/user-attachments/assets/48698a25-d877-4cc0-b0bf-adbe817b3faf" />
+
 > the lengths of my cube were all 6.6, so when making my fillet to round the edges the radius was also set to 6.5 to make a perfect sphere
 
 <img width="332" height="322" alt="Screenshot 2026-09-17 142232" src="https://github.com/user-attachments/assets/e9947e56-eddc-41e4-b65d-d353d8cf68a8" />
@@ -71,16 +72,20 @@ For example, In the picture below you will see how I initially made the main dim
 > here is a demonstration of how i included contraints into my design. If i ever decide to change the width of my rectangle, the midpoint will stay consistent and centered witht he midline.  
 
 <img width="321" height="294" alt="Screenshot 2026-09-17 142526" src="https://github.com/user-attachments/assets/fefa5c58-3c53-4631-b979-4a803cbbb092" />
+
 > just like before, i fillet the sides to be a perfect radius.
 
 <img width="272" height="226" alt="Screenshot 2026-09-17 143405" src="https://github.com/user-attachments/assets/dcad8b9f-564c-4263-b995-8f3679bc5162" />
+
 > i copies the ball section and displaced it 25 mm from the original. this was gonna be used as my base for the body.
 
 <img width="594" height="338" alt="Screenshot 2026-09-17 143743" src="https://github.com/user-attachments/assets/629be9c4-6014-4659-8404-72b8bb2b7b59" />
+
 > i offset the orb by a size of 2 mm.This was previously discussed as the minumum size for 3d printing leeway.
 
 <img width="550" height="272" alt="Screenshot 2026-09-17 145419" src="https://github.com/user-attachments/assets/9ff48e22-6d1d-4f34-87e2-52574f60e095" />
 <img width="518" height="281" alt="Screenshot 2026-09-17 145531" src="https://github.com/user-attachments/assets/48015d0d-4891-436d-8119-0da9de8e237d" />
+
 > i am setting up the body
 
 <img width="751" height="283" alt="Screenshot 2026-09-17 145646" src="https://github.com/user-attachments/assets/167d5b3a-d683-464f-9232-221d3b573b38" />
@@ -89,6 +94,7 @@ For example, In the picture below you will see how I initially made the main dim
 > once again i amusing the displacement tehcnique, taking that same orb and displacing it 25 mm again, into the holder, to create that opening.
 
 <img width="442" height="246" alt="Screenshot 2026-09-17 150156" src="https://github.com/user-attachments/assets/a882400b-7e93-4878-867a-9eda68c5c9fa" />
+
 > although diffcult tp nptice, i chamfered the sides as reccomended on the assignment. We were given the hint to avoid any sharp inside corners as it will avoid stress concentrations.
 
 
