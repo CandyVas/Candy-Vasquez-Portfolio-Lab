@@ -118,19 +118,33 @@ For example, In the picture below you will see how I initially made the main dim
 > Finally, with the design done it was translated one final time bakc into place and it fit.
 
 ## 3D printing & Testing
+Now that the CAD model has been designed, it was time to print. Immediatley after importing it into PrusaSLicer, this is what i was met with, Luckily with the dimensions i chose, the design s reasonable sized that there isnt any need for scaling. Another bonus is that its alrady laying o its side, there was no need to fix orientation. 
 
-I used this[source](https://www.hubs.com/knowledge-base/how-does-part-orientation-affect-3d-print/) to determine my build orientation and how it would affect the strength of my snap-fit. The strength of 3D print depends on the direction in which they are printed, and the article states that FDM parts are much stronger within the XY plane than in the Z direction because the bond between printed layers is weaker than the material within the layers. 
+<img width="204" height="146" alt="image" src="https://github.com/user-attachments/assets/db8f699e-8082-44f5-834e-3b543b6e2520" />
+
+Therefore i went straight to business and decided to chane the settings of my print. Wall thickness contributes far more to the structural strength and hoop stress resistance of a snap-fit socket than infill density alone. SO i used that on top of using a 40% gyroid infill. Combined with stronger outer perimeters guarantees an increase the strength of the part without making the entire interior solid, which is perfect for this kind of project. The last step to make this successful was adding supports, and i let PrusaSlicer automatically add those supports for me.
+
+<img width="680" height="174" alt="Screenshot 2026-09-17 153551" src="https://github.com/user-attachments/assets/2f3ede97-e660-4b91-84ac-eccfe71b0b4d" />
+<img width="662" height="268" alt="Screenshot 2026-09-17 153546" src="https://github.com/user-attachments/assets/aa319a98-66e0-4ac5-87f2-7d4900e9fc59" />
+<img width="559" height="287" alt="Screenshot 2026-09-17 171349" src="https://github.com/user-attachments/assets/68e1f88b-8d62-42f8-8a3e-af9ba2184362" />
+
+AFter i was content with the sttings, i sliced my design and looked through the printing time. Youll notice the orientation of the lines of the print. The lines run along the length rather than stacking on top. This is especially important when considering where bending stress might occur and is highest, because layer seams shouldnt be built that way
+
+<img width="401" height="232" alt="image" src="https://github.com/user-attachments/assets/b72b35ce-b87b-4092-952d-9ad7906e26d5" />
+<img width="243" height="167" alt="Screenshot 2026-09-17 171758" src="https://github.com/user-attachments/assets/fd538bcd-21be-414f-8a4c-60fe70f6047e" />
+
+I used this [source](https://www.hubs.com/knowledge-base/how-does-part-orientation-affect-3d-print/) to determine my build orientation and how it would affect the strength of my snap-fit. The strength of 3D print depends on the direction in which they are printed, and the article states that FDM parts are much stronger within the XY plane than in the Z direction because the bond between printed layers is weaker than the material within the layers. 
 
 THis helped me decide my orientation, since I designed the snap-fit as a ball-and-joint sideways, rather than standing it vertically. The primary reason for my build orientation was strength, because if the ball-and-joint had been printed in the direction of the pulling force, the layers could have been more vulnerable to separating when the two pieces were pulled apart. By printing it sideways, I oriented the stronger in-plane material paths to better resist the applied load.
 
-I chose to lay the ball-and-joint sideways on the build plate. One reason for this was that the ball is round (duh) so placing it sideways allowed the build to be supported by the plate instead of trying to balance with a large unsupported portion.
+I chose to lay the ball-and-joint sideways on the build plate. One reason for this was that the ball is round (duh) so placing it sideways allowed the build to be supported by the plate instead of trying to balance with a large unsupported portion. Laying it sideways also stops it from having an excessive amount of support because support material increases printing time, material usage, and post-processing
 
 I chose to use a support strategy only where it was necessary to stabilize the geometry during printing. The main reason was the spherical shape of the ball. Because the ball has curved surfaces, some areas can become difficult for an FDM printer to build without support. I kept it plain and simple and used the auomatic suport feature provided by PrusaSlicer. 
 
 ### Mistakes 
 One of the main mistakes was assuming tha prusa was going to add the supports for me. My first attempt at printing was a major fail since i didnt add supports, and it ended up in a tangled mess of melted plastic. After that disappointinf first try, I  had to consider how the curved ball would be supported during printing. A spherde does not have a large flat surface, so its orientation affects both stability and the amount of support required. 
 
-On a better note, one think I learned that the direction of the FDM parts and layers matters when designing a load-bearing part. Orientation should be selected based on the expected load. For my ball-and-joint snap-fit, printing the part sideways meant that the pulling force would not try to separate the layers from one another. 
+On a better note, one thing I learned that the direction of the FDM parts and layers matters when designing a load-bearing part. Orientation should be selected based on the expected load. For my ball-and-joint snap-fit, printing the part sideways meant that the pulling force would not try to separate the layers from one another. 
 
 The project took me about 5 hours from start to finish.
 
