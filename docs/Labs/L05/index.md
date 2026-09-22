@@ -9,7 +9,7 @@ We were given a list of options of potential snip fit designs we could create in
 
 I decided that my snap-fit project will be made of PLA the 3d printing material, After [researching](https://www.makeitfrom.com/material-properties/Polylactic-Acid-PLA-Polylactide) the common Young's Modulus and yield strength of PLA (aka  Common Polylactic acid), I got Young's Modulus to be 3.5 GPa (3,500 MPa) and a yield/tensile strength of about 50 MPa. From there, i made sure to use a Safety factor of 3.5. As for the transverse load, we were tasked between a load of .25 lbf - 5 lbf.  The axial load of the clip should be in between 5 lbf - 10 lbf.
 
-For my knowns i have
+For my knowns I have
 
   + Safety Factor: N = 3.5
     
@@ -31,20 +31,14 @@ We are meant to solve for thr length of the flexure using the beam equation for 
 
 <img width="545" height="293" alt="Screenshot 2026-09-15 211140" src="https://github.com/user-attachments/assets/1e844484-1be6-4052-8d09-bf5e5480d4a3" />
 
-Generate a separate FBD of each component.
-
-
-
-That way, i can choose the dimensions of my snap-fit, since it will depend on the flexing using the chosen load. If i did this correctly, then the axial load of the clip should be in between 5 lbf - 10 lbf.
-
-Using my answer from above, I decided to choose the initial width of __ and a base of __ of the flexure. 
-
-I then solved for the length of the flexure using the beam equation for cantilever beam with a concentrated load at the free end.
+I implemented that into my equations below. I then solved for the length of the flexure using the beam equation for cantilever beam with a concentrated load at the free end.
 
 Here I have provided a separate FBD of each component.
 
 The required axial load is between 5 and 10 lbf. The worst-case value of 10 lbf will be used.
 
+
+<img width="351" height="353" alt="image" src="https://github.com/user-attachments/assets/e53d7256-165d-4707-9e19-254529a9435c" />
 
 
 However when reading back the assignment- one of the requirements say "Make sure the stress is less than the strength of material and SF". When adding my stresses, i got 15.56 MPa which is greater than the allowable 14.29 MPa. So if the 5-lbf transverse load and 10-lbf axial load occur at the same critical section, my sizes for the flexure would not meet the 3.5 safety-factor requirement. However indivisially, they pass just fine. *Lesson learned and what i could do to fix that*
@@ -139,12 +133,27 @@ THis helped me decide my orientation, since I designed the snap-fit as a ball-an
 
 I chose to lay the ball-and-joint sideways on the build plate. One reason for this was that the ball is round (duh) so placing it sideways allowed the build to be supported by the plate instead of trying to balance with a large unsupported portion. Laying it sideways also stops it from having an excessive amount of support because support material increases printing time, material usage, and post-processing
 
+<img width="307" height="244" alt="image" src="https://github.com/user-attachments/assets/02382b4f-8728-4e36-bd10-72315fd3a209" />
+
+
 I chose to use a support strategy only where it was necessary to stabilize the geometry during printing. The main reason was the spherical shape of the ball. Because the ball has curved surfaces, some areas can become difficult for an FDM printer to build without support. I kept it plain and simple and used the auomatic suport feature provided by PrusaSlicer. 
 
-### Mistakes 
-One of the main mistakes was assuming tha prusa was going to add the supports for me. My first attempt at printing was a major fail since i didnt add supports, and it ended up in a tangled mess of melted plastic. After that disappointinf first try, I  had to consider how the curved ball would be supported during printing. A spherde does not have a large flat surface, so its orientation affects both stability and the amount of support required. 
+<img width="191" height="139" alt="image" src="https://github.com/user-attachments/assets/1e0d8e1a-2eba-4f07-93b3-4a19f3e15716" />
+<img width="161" height="154" alt="image" src="https://github.com/user-attachments/assets/6660fa3e-b2d7-42d7-b5af-c6c5b8cf25d6" />
 
-On a better note, one thing I learned that the direction of the FDM parts and layers matters when designing a load-bearing part. Orientation should be selected based on the expected load. For my ball-and-joint snap-fit, printing the part sideways meant that the pulling force would not try to separate the layers from one another. 
+Removing the supports proved to be difficult and i had to get pliers involved. Especially on the opening side parts, i wouldnt have been able to remove it without tools. This was foreshadowing what was to come with my design, as im afriad the part would not seperate !! It wouldnt even move inside eachother. and after futher observing my part, i notice that on the back, it was poorly printed, so im ot sure whether it was a printer error or human error 
+
+<img width="320" height="316" alt="image" src="https://github.com/user-attachments/assets/20051d4b-3e84-4f9a-bc56-db3f094ffad2" />
+<img width="326" height="300" alt="image" src="https://github.com/user-attachments/assets/b5a13f7e-3d98-4033-975c-fd2ac41c8ecd" />
+
+
+### Mistakes 
+One of the main mistakes was assuming tha prusa was going to add the supports for me. My first attempt at printing was a major fail since i didnt add supports, and it ended up in a tangled mess of melted plastic. After that disappointinf first try, I  had to consider how the curved ball would be supported during printing. A spherde does not have a large flat surface, so its orientation affects both stability and the amount of support required. Another mistake I encounteredwas that the ball and joint were printed inside each other instead of having enough clearance between the two. Because there was not enough separation between the mating surfaces, the PLA from the two parts fused together during printing. As a result, the ball could not move freely inside the joint, which prevented the snap-fit from functioning properly.
+
+<img width="466" height="349" alt="image" src="https://github.com/user-attachments/assets/805b61ef-b79d-479b-bcb7-b38285563b64" />
+
+
+On a better note, one thing I learned that the direction of the FDM parts and layers matters when designing a load-bearing part. Orientation should be selected based on the expected load. For my ball-and-joint snap-fit, printing the part sideways meant that the pulling force would not try to separate the layers from one another. Also next time, not only will i add more clearance between two parts, but ill even print them seperatley. 
 
 The project took me about 5 hours from start to finish.
 
