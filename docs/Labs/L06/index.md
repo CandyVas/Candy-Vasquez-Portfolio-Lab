@@ -1,5 +1,5 @@
 # A6 – [Topic]
-
+https://github.com/CandyVas/Candy-Vasquez-Portfolio-Lab/edit/main/docs/Labs/L06/index.md
 ## Objective
 (40%) Parametrically design something small that snap fits one of the features of the artifact measured in class. Document the thought and physical process and decisions from measuring the artifact to exporting the stl file. The documentation includes many pictures and images. Capture the design’s use of parameters and constraints.
 
@@ -37,6 +37,7 @@ i wnt back to my extrusion and reduced the length by half, so i can take into ac
 when i initially got my design finalized, i chose the usual gyroid infill to prote strength and 
 thanks to the parameters put in place, whe i had to upscale my lid fro, 34 mm to 35, the rest of my deisgn was not ruined. the top lid was made so that it potruded y 1 mm on all sides. and the diameter was centered, so increasing the size didnt make it off center. 
 
+i wanted to try solidworks snap hook feature as it already takes into account the flexure and what not. Howver i couldnt figure out how to applu it on the rounded/fillet corners of my lid. SO i settled with adding 2 hookes on a singular coner. as iconvenient as this design was, i figured it would still get the job done since its  a feature already implemeted ino the program. 
 ## Analyze
 
 
