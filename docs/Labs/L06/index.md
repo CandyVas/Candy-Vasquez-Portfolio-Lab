@@ -102,9 +102,7 @@ If I printed it in this orientation, a large portion of the model would have bee
 In the image above you will see that my final dimensions of the sliced print were
 
 X: 38.92 mm
-
 Y: 38.92 mm
-
 Z: 15.68 mm
 
 The 38.92 mm dimensions make sense when compared to my CAD model. The main lid dimension was 34.92 mm, but I intentionally extended the top structure by 1 mm on each side to provide room for the snap-hook structure.
