@@ -12,7 +12,7 @@ My initial idea was to design a snap-fit around the cylindrical rod. However, I 
 
 I decided I'd do a work around with the lid idea and have an opening around the cylindrical rod. This allowed the lid to cover the main body without interfering with the cylinder or wires. Here is the hand sketch of the feature, and my potential idea 
 
-8PICTUDrE OF DRAWING*
+<img width="462" height="316" alt="image" src="https://github.com/user-attachments/assets/cb4ccd62-28f9-4f53-a0e0-ddf8ed4e188f" />
 
 I researched different types of snap-fit joints and found that a cantilever-style snap fit would be appropriate for a small 3D-printed component. I used this [website](https://www.hubs.com/knowledge-base/how-design-snap-fit-joints-3d-printing/). One big idea that I took from it was the use of tapering, because with constant thickness, a snap-fit cantilever can experience higher stress which can cause breakage
 
