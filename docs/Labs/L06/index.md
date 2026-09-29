@@ -176,6 +176,13 @@ And finally, snap-fit was one of the more complicated parts of the project becau
 This project took me 6 hours 
 
 ## Recources
+
+[PrusaSlicer](https://www.prusa3d.com/p/prusaslicer/) 
+
+[ProtoLabs Network](https://www.hubs.com/knowledge-base/how-does-part-orientation-affect-3d-print/)
+
+UNC Charlotte Rapid Prototyping 
+
 [Protolabs Network](https://www.hubs.com/knowledge-base/how-design-snap-fit-joints-3d-printing/)
 
 [Rapid Prototyping Solutions](https://rapidprototypingsolutions.se/en/knowledge-bank/order-3d-printing-with-the-correct-tolerances-for-fitment/)
