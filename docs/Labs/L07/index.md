@@ -43,10 +43,13 @@ Since this was gping to be an sembled project i made all the indivisual pieces a
 
 <img width="474" height="196" alt="image" src="https://github.com/user-attachments/assets/a5187f6c-495b-40c1-b6a0-05abdefb43f4" />
 <img width="722" height="315" alt="image" src="https://github.com/user-attachments/assets/75e39cd7-68c8-4047-a0f8-cf01d9524d8d" />
+<img width="422" height="239" alt="image" src="https://github.com/user-attachments/assets/e18e2178-0f9e-4871-a194-83cea1b6d7e5" />
+
 
 
 <img width="463" height="152" alt="Screenshot 2026-10-01 151137" src="https://github.com/user-attachments/assets/fb6a3ef9-e9cc-478d-9fa0-07be0da28fb2" />
 <img width="545" height="192" alt="image" src="https://github.com/user-attachments/assets/465a9212-5ef3-41a8-b1e1-ee579d8c8cc0" />
+
 
 
 <img width="457" height="188" alt="image" src="https://github.com/user-attachments/assets/8835247a-96f7-4c9e-bfe2-fc1b34a4ac86" />
@@ -58,6 +61,12 @@ i thouht BOUT assembling it, but i rememberedmy snao fit and when i designed it 
 Admittedly i was a bit worried about this print because it has a printing time of 2 hours. if i failed then it wouldve been a wast eof time 
 
 ## 3D Print
+<img width="383" height="257" alt="image" src="https://github.com/user-attachments/assets/7ee18ea0-b2b4-4b7c-944b-fa746d784142" />
+ when inserting some aspects they showed up verticaly instead of horizotaly. hen this occured i simply out 90 in the x axis so it would lay down. This only occured with the boy and wth the rods, as shown below 
+
+ <img width="477" height="286" alt="Screenshot 2026-10-01 153317" src="https://github.com/user-attachments/assets/7b246aa5-8c51-4152-949c-2062034d411c" />
+
+i laid them down to aavoid excessive supports. I also made the setting so that it would add supports for the circular rods thinking that it would roll away. However in the settings it didnt show up, so i was surprised to see that there were no supports to hold it up, unline my other circular design that needed support. 
 
 Document your design process with captioned images.
 
@@ -68,6 +77,9 @@ Design decisions: Describe at least three key decisions. For each, list the alte
 Images:
 At least four images showing the CAD model at different stages.
 One image of the final assembly.
+___ 
+
+<img width="383" height="257" alt="image" src="https://github.com/user-attachments/assets/07698903-1650-43b7-9f3a-3c9b7de47e25" />
 
 ## Lessons Learned
 
