@@ -14,6 +14,10 @@ Cite at least three credible sources, such as journal articles, patents, confere
 
 Planar Transforming Coiling Linkage (Published 2025):
 https://link.springer.com/article/10.1186/s40648-025-00289-3 
+<img width="158" height="190" alt="40648_2025_289_Fig10_HTML" src="https://github.com/user-attachments/assets/19cb99de-bd42-4806-88a1-6375f5835bba" />
+
+
+
 
 Sarrus-Derived Single-DoF Embracing Gripper (Published: 30 January 2025)
 https://link.springer.com/article/10.1007/s40430-025-05388-1
@@ -68,6 +72,19 @@ Admittedly i was a bit worried about this print because it has a printing time o
 
 i laid them down to aavoid excessive supports. I also made the setting so that it would add supports for the circular rods thinking that it would roll away. However in the settings it didnt show up, so i was surprised to see that there were no supports to hold it up, unline my other circular design that needed support. 
 
+
+I came across a problem mid print. After an hour of printing i came to check on the progress and so far everything was perfect, but my rods went missing! It made sense sinc ei didnt have supports, but i thought sicne the program didnt generate them for me since i put so in the settings they wouldnt be necessary. I then went into a long look for the correct way to orient these. I waned something that considered my time and the strength of the rod. I remember one lab really driving the fact that prints shouldnt be printed the sa,e way theyre oriented becayse it creates weak layers. 
+
+Here is what i was initially working with. I was very against this print not only because of the time, but if the design was weka enough to fall over, id have to completely restart. I also went onlie for answers and everyoene advised agaisnt printing in this orientatiomn, therefore i decided against it. 
+<img width="689" height="413" alt="Screenshot 2026-10-01 170956" src="https://github.com/user-attachments/assets/af4bd72c-37b1-4d6d-a396-1a1fcf19e718" />
+
+It took me a minute to understand prusaslicers support settinfs, however, what i was looking for was not iside the print settings. on the other hand, i left clicked the features i wanted to print and clicked on "add support enforcer" and after browing each option, i settled on slab. SLabs took into account the side of my rods wheras everythign else was much too tall and thick for 4 thin rods. I will happily take 11 minutes printing time over 45 
+
+<img width="318" height="194" alt="image" src="https://github.com/user-attachments/assets/5f70b3b5-74c0-4672-8ded-3e9f19c689ba" />
+<img width="777" height="288" alt="Screenshot 2026-10-01 172700" src="https://github.com/user-attachments/assets/9b1fb764-d14e-4e89-8c0c-7412a8fbfad9" />
+<img width="411" height="283" alt="Screenshot 2026-10-01 173301" src="https://github.com/user-attachments/assets/df766a1e-ffac-4180-bd55-70e31dad0ee2" />
+
+
 Document your design process with captioned images.
 
 Purpose: What does your mechanism do, and why did you choose to design it?
@@ -78,8 +95,6 @@ Images:
 At least four images showing the CAD model at different stages.
 One image of the final assembly.
 ___ 
-
-<img width="383" height="257" alt="image" src="https://github.com/user-attachments/assets/07698903-1650-43b7-9f3a-3c9b7de47e25" />
 
 ## Lessons Learned
 
