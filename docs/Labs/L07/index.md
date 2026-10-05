@@ -105,7 +105,7 @@ When importing my design into PrusaSlicer, some of the components appeared verti
 
 I initially tried to use automatic supports for the circular rods. However, PrusaSlicer did not generate the support I expected, and the rods were not adequately supported.
 
-<img width="180" height="200" alt="IMG_2275" src="https://github.com/user-attachments/assets/b4bf8133-fda2-4bd6-ba70-e20f0563dda5" />
+<img width="380" height="400" alt="IMG_2275" src="https://github.com/user-attachments/assets/b4bf8133-fda2-4bd6-ba70-e20f0563dda5" />
 
 I encountered a problem about an hour into the print. When I checked on the printer, the main components were printing successfully, but the rods had detached from the print bed and were missing. This made me realize that I needed to reconsider both the orientation of the rods and how their supports were being generated.
 
@@ -115,7 +115,7 @@ I wanted an orientation that considered both print time and part strength. I rem
 
 I was hesitant to use this orientation because the rods could potentially become unstable during printing. If the rods fell over during the print, I would have had to restart the print and lose additional time and material. I therefore decided against this orientation.
 
-<img width="300" height="180" alt="Screenshot 2026-10-01 170956" src="https://github.com/user-attachments/assets/af4bd72c-37b1-4d6d-a396-1a1fcf19e718" />
+<img width="400" height="230" alt="Screenshot 2026-10-01 170956" src="https://github.com/user-attachments/assets/af4bd72c-37b1-4d6d-a396-1a1fcf19e718" />
 
 I eventually found the support-enforcer feature in PrusaSlicer. Instead of relying on automatic supports, I selected the rods and manually added support underneath them. After testing the available options, I chose a slab-style support because it provided support along the length of the thin rods without creating a large amount of unnecessary material.
 
