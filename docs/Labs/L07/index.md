@@ -52,15 +52,23 @@ Since this was gping to be an sembled project i made all the indivisual pieces a
 
 
 <img width="463" height="152" alt="Screenshot 2026-10-01 151137" src="https://github.com/user-attachments/assets/fb6a3ef9-e9cc-478d-9fa0-07be0da28fb2" />
+
+> h
+
 <img width="545" height="192" alt="image" src="https://github.com/user-attachments/assets/465a9212-5ef3-41a8-b1e1-ee579d8c8cc0" />
 
+> 
 
-
-<img width="457" height="188" alt="image" src="https://github.com/user-attachments/assets/8835247a-96f7-4c9e-bfe2-fc1b34a4ac86" />
 
 <img width="191" height="173" alt="image" src="https://github.com/user-attachments/assets/af6dec38-2aa4-4b79-92b0-5666133ab381" />
 
-i thouht BOUT assembling it, but i rememberedmy snao fit and when i designed it inside, it didnt work. 
+> this is the button that i will place in the middle of the linksge thatll hold it together to so that it lifts and lowers. Even though i made the opening of the linkage 5 r, i decided to make the button the exact fit.
+
+this is because wen consling online about the typesof tolerances, i used this [website](https://markforged.com/resources/learn/design-for-additive-manufacturing-plastics-composites/3d-printing-strategies-for-composites/composites-3d-printing-design-tips) that asks for a 0.00 mm - 0.05 mm clearance for a press fit. The last thing i wanted was the button falling out as its being lifted to function, 
+
+<img width="457" height="188" alt="image" src="https://github.com/user-attachments/assets/8835247a-96f7-4c9e-bfe2-fc1b34a4ac86" />
+
+> for the rod, i didnt take the same approach as the button. i acknoowleged that the button needed a press fit, however the rod needed to move/roll freely inside. For this part i went with a diameter of 4.65 mm and a length of 56 mm. I acknlowedge that this is a large clearnace between the 5 mm, but i built this only considering the rolling mechanism inside the base. It was only after i printed it did i realize that the snug fit shouldve also been on the outside of the linkage. 
 
 Admittedly i was a bit worried about this print because it has a printing time of 2 hours. if i failed then it wouldve been a wast eof time 
 
@@ -81,8 +89,14 @@ Here is what i was initially working with. I was very against this print not onl
 It took me a minute to understand prusaslicers support settinfs, however, what i was looking for was not iside the print settings. on the other hand, i left clicked the features i wanted to print and clicked on "add support enforcer" and after browing each option, i settled on slab. SLabs took into account the side of my rods wheras everythign else was much too tall and thick for 4 thin rods. I will happily take 11 minutes printing time over 45 
 
 <img width="318" height="194" alt="image" src="https://github.com/user-attachments/assets/5f70b3b5-74c0-4672-8ded-3e9f19c689ba" />
+
 <img width="777" height="288" alt="Screenshot 2026-10-01 172700" src="https://github.com/user-attachments/assets/9b1fb764-d14e-4e89-8c0c-7412a8fbfad9" />
+
+> 
+
 <img width="411" height="283" alt="Screenshot 2026-10-01 173301" src="https://github.com/user-attachments/assets/df766a1e-ffac-4180-bd55-70e31dad0ee2" />
+
+>
 
 
 Document your design process with captioned images.
