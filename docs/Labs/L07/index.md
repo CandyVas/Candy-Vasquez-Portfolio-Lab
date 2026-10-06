@@ -111,11 +111,9 @@ I initially tried to use automatic supports for the circular rods. However, Prus
 
 I encountered a problem about an hour into the print. When I checked on the printer, the main components were printing successfully, but the rods had detached from the print bed and were missing. This made me realize that I needed to reconsider both the orientation of the rods and how their supports were being generated.
 
-I wanted an orientation that considered both print time and part strength. I remembered from a previous lab that parts should not always be printed in the same orientation as their final use because the direction of the layers can affect the strength of the finished part.
-
 <img width="300" height="200" alt="IMG_2278" src="https://github.com/user-attachments/assets/0ed6766f-2751-46e3-874e-23474db1c65f" />
 
-I was hesitant to use this orientation because the rods could potentially become unstable during printing. If the rods fell over during the print, I would have had to restart the print and lose additional time and material. I therefore decided against this orientation.
+I wanted an orientation that considered both print time and part strength. I remembered from a previous lab that parts should not always be printed in the same orientation as their final use because the direction of the layers can affect the strength of the finished part. I was hesitant to use the orientation displayed below because the rods could potentially become unstable during printing. If the rods fell over during the print, I would have had to restart the print and lose additional time and material. I therefore decided against this orientation.
 
 <img width="400" height="230" alt="Screenshot 2026-10-01 170956" src="https://github.com/user-attachments/assets/af4bd72c-37b1-4d6d-a396-1a1fcf19e718" />
 
