@@ -6,16 +6,17 @@ Design, 3D print, and document a working linkage or mechanism that performs a de
 
 ## Research
 
-### [Planar Transforming Coiling Linkage](https://link.springer.com/article/10.1186/s40648-025-00289-3) (Published: 11 February 2025)
+### [Planar Transforming Coiling Linkage](https://link.springer.com/article/10.1186/s40648-025-00289-3)
+(Published: 11 February 2025)
 
 > HOW IT WORKS
 
-It is a planar linkage mechanism that uses a series of four-bar linkages to create a coiling and uncoiling motion, unlike the traditional scissor linkage that expands and contracts linearly. The coiling linkage transforms between a compact coil to an extended configuration. The mechanism has one degree of freedom, meaning that one input motion controls the overall configuration of the linkage.
+It is a planar linkage mechanism that uses a series of four bar linkages to create a coiling and uncoiling motion, unlike the traditional scissor linkage that expands and contracts linearly. The coiling linkage transforms between a compact coil to an extended one. The mechanism has one degree of freedom, meaning that one input motion controls the overall configuration of the linkage.
 
 > HOW IT COULD BE USED
 
-+ Aerospace: The compact form can help store deployable supports and spacecraft items to be stored in a small volume and then expanded when needed.
-+ Architecture: The mechanism could be used for deployable structures that need to transition between a compact storage and a larger structural configuration.
++ Aerospace: The compact form can help store deployable supports and spacecraft items to be stored in a small volume and then expandedd.
++ Architecture: The mechanism could be used for deployable structures that need easy transportation since it can transition from a compact storage and a larger structure.
 
 <img width="158" height="190" alt="40648_2025_289_Fig10_HTML" src="https://github.com/user-attachments/assets/19cb99de-bd42-4806-88a1-6375f5835bba" />
 
@@ -23,17 +24,18 @@ It is a planar linkage mechanism that uses a series of four-bar linkages to crea
 
 
 
-### [Sarrus-Derived Single-DoF Embracing Gripper](https://link.springer.com/article/10.1007/s40430-025-05388-1) (Published: 30 January 2025)
+### [Sarrus-Derived Single-DoF Embracing Gripper](https://link.springer.com/article/10.1007/s40430-025-05388-1) 
+(Published: 30 January 2025)
 
 > HOW IT WORKS
 
-This is a linkage that was designed to replicate human hand motion, derived from the classic Sarrus mechanism. It uses only one degree of freedom, so instead of independently controlling every link, the motion of the linkage coordinates the movement of the entire gripper. It Employs a multi-bar crank-slider finger configuration modeled after human hand movements.
+This is a linkage that was designed to replicate human hand motion, derived from the classic [Sarrus mechanism](https://www.researchgate.net/figure/A-Sarrus-mechanism-illustrated-in-its-three-different-positions_fig12_277385942). It uses only one degree of freedom, so instead of independently controlling every link, the motion of the linkage coordinates the movement of the entire gripper. It Employs a multi-bar crank-slider finger configuration modeled after human hand movements.
 
 > HOW IT COULD BE USED
 
 Robotics: A gripper like this could pick up and manipulate objects on an automated production line.
 
-Logistics: A compact, single-DOF gripper could be used on robotic systems that pick up objects of different shapes and sizes.
+Logistics: It could be used on high density orders since it has a large gripping range, which allows the arms to handle varying package sizes.
 
 <img width="260" height="190" alt="40430_2025_5388_Fig3_HTML" src="https://github.com/user-attachments/assets/b418f6a1-31e9-4daf-be8e-149322132637" />
 
@@ -157,7 +159,7 @@ ___
 ## Lessons Learned
 
 ### Time
-The project took about6 hours from start to finish. I spent about 1 hour researching linkage designs, about 30 minutes designing the components in SolidWorks, 2 hours printing, and 1 hour removing supports and assembling the mechanism, with the remaining time spent on slicing and documenting. The project took longer than I originally expected because I had to reprint the rods after the first orientation failed. The additional troubleshooting and post-processing took more time than I initially anticipated.
+The project took about 6 hours from start to finish. I spent about 1 hour researching linkage designs, about 30 minutes designing the components in SolidWorks, 2 hours printing, and 1 hour removing supports and assembling the mechanism, with the remaining time spent on slicing and documenting. The project took longer than I originally expected because I had to reprint the rods after the first orientation failed. The additional troubleshooting and post-processing took more time than I initially anticipated.
 
 ### Biggest Mistake
 My biggest mistake was using too much clearance between the rods and the linkage openings. I designed the rods to be 4.65 mm diameter while the openings were 5.00 mm, creating 0.35 mm of diametral clearance. I originally thought this would make the rods rotate freely, but I did not consider that the rods also needed to remain captured inside the linkage. After assembling the mechanism, I discovered that some rods could slip out, which showed me that the clearance needed to be smaller. If I redesigned the mechanism, I would use a rod around 4.85–4.90 mm for a 5.00 mm opening, depending on the printer and material being used. I would also print a small tolerance test before committing to the complete print.
@@ -167,3 +169,10 @@ My first-print clearances worked partially, but they were not ideal for every in
 
 ## Appendix 
 
+[Sarrus-Derived Single-DoF Embracing Gripper](https://link.springer.com/article/10.1007/s40430-025-05388-1)
+
+[Sarrus mechanism](https://www.researchgate.net/figure/A-Sarrus-mechanism-illustrated-in-its-three-different-positions_fig12_277385942)
+
+[Planar Transforming Coiling Linkage](https://link.springer.com/article/10.1186/s40648-025-00289-3)
+
+[Markforged](https://markforged.com/resources/learn/design-for-additive-manufacturing-plastics-composites/3d-printing-strategies-for-composites/composites-3d-printing-design-tips)
