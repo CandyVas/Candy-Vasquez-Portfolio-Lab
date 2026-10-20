@@ -144,7 +144,7 @@ Here is a progress shot and a [video](https://github.com/user-attachments/assets
 
 Things started to go awry when it came to printing the name. Since I’ve had this issue before, I wasn't surprised it happened. However, I wasn't too upset either; by then, the part had already extruded the appropriate amount and the letters were on top of the staff, meaning it was not going to hinder the tolerances. This didn't mean my design was a disaster. I could just go in with sandpaper to fix the unevenness and paint the piece instead of having my name extruded.
 
-<img width="1208" height="906" alt="IMG_2525" src="https://github.com/user-attachments/assets/5684474c-4ba6-4376-90bc-b6503cae98c6" />
+<img width="298" height="289" alt="IMG_2525" src="https://github.com/user-attachments/assets/5684474c-4ba6-4376-90bc-b6503cae98c6" />
 
 Finally, here it is directly off the plate and assembled. 
 
@@ -158,7 +158,7 @@ One of the biggest lessons I learned from this project was the importance of ear
 
 Another challenge was balancing my ideal print settings with the time I had available. I originally wanted to use 20% gyroid infill, but after slicing the model, I realized that the estimated print time was not practical for my deadline. I settled on 15% grid infill instead, and although I was familiar with infill settings, this showed me how important it is to evaluate the actual print time early rather than assuming I will have enough time to use my preferred settings. In the future, I would slice my model earlier and use the estimated printing time to guide my design decisions.
 
-I also learned to be more intentional about part orientation. I purposefully avoided orientations that would require unnecessary supports because they would increase printing time and leave additional marks on the finished parts. However, avoiding supports also meant I had to think carefully about how each component would sit on the build plate. It also doesn't hurt to have support in the first place — my overlook of the saddle could have cost me valuable time if I didn't catch it on time. Supports are meant to help not hinder your design, and after looking at the legend you will notice that it doesn't take much time to print at all.
+I also learned to be more intentional about part orientation. I purposefully avoided orientations that would require unnecessary supports because they would increase printing time and leave additional marks on the finished parts. However, avoiding supports also meant I had to think carefully about how each component would sit on the build plate. It also doesn't hurt to have support in the first place. My overlook of the saddle could have cost me valuable time if I didn't catch it on time. Supports are meant to help not hinder your design, and after looking at the legend you will notice that it doesn't take much time to print at all.
 
 The printing process itself took about 4 hours. However I had to put in research, measure, design my product, remove supports, then write my report which took about 5 hours. So in total this assignment took 9 hours. 
 
