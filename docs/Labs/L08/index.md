@@ -138,13 +138,17 @@ I used machine PC_15 for two reasons- it had white filament which aesthetically 
 <img width="277" height="125" alt="IMG_2513" src="https://github.com/user-attachments/assets/5bcd0133-c144-4ccf-9396-0f7af85da6ff" />
 <img width="150" height="125" alt="IMG_2511" src="https://github.com/user-attachments/assets/8ab7af71-d58f-413b-acb6-1c964aaaa601" />
 
-Here is a progress shots and a [video] of my print while it was being printed. At this stage I was starting to see just how large the print would really be and I was hoping I did everything right since its such a large piece. 
+Here is a progress shot and a [video](https://github.com/user-attachments/assets/30a5d2d5-c0be-4c1a-b228-f9079fc5478a) of my print while it was being printed. At this stage I was starting to see just how large the print would really be and I was hoping I did everything right since its such a large piece. 
 
 <img width="298" height="289" alt="IMG_2517" src="https://github.com/user-attachments/assets/1e2a57b5-4d51-4204-be0a-7c46a1eed781" />
 
 Here it is directly off the plate and assembled. 
 
 *Pic*
+
+
+
+
 
 The surface finish of the supports was about what I expected- it was rough which made me nervous since I was hoping to achieve a snap fit. However it still worked
 
