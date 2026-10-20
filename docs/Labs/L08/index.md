@@ -26,7 +26,8 @@ Using my research, I decided to design a stand that supports the headband across
 
 I decided on a design similar to the one shown in my sketch below.
 
-*add sketch* 
+<img width="370" height="200" alt="IMG_2515" src="https://github.com/user-attachments/assets/310b47bf-d223-43e6-b074-42e334f88946" />
+
 
 At the top of the stand, I designed a wide saddle to support the headband. I wanted the saddle to have a smooth, curved surface that follows the shape of the headphones to distribute the weight more evenly.
 
@@ -133,6 +134,19 @@ As I was exporting the G-code, I realized there was a problem with my initial se
 ### Printing 
 
 I used machine PC_15 for two reasons- it had white filament which aesthetically matches my headphones. But the technical reason was that it is PLA filament, which is the setting I had applied when creating my G-Code
+
+<img width="277" height="125" alt="IMG_2513" src="https://github.com/user-attachments/assets/5bcd0133-c144-4ccf-9396-0f7af85da6ff" />
+<img width="150" height="125" alt="IMG_2511" src="https://github.com/user-attachments/assets/8ab7af71-d58f-413b-acb6-1c964aaaa601" />
+
+Here is a progress shots and a [video] of my print while it was being printed. At this stage I was starting to see just how large the print would really be and I was hoping I did everything right since its such a large piece. 
+
+<img width="298" height="289" alt="IMG_2517" src="https://github.com/user-attachments/assets/1e2a57b5-4d51-4204-be0a-7c46a1eed781" />
+
+Here it is directly off the plate and assembled. 
+
+*Pic*
+
+The surface finish of the supports was about what I expected- it was rough which made me nervous since I was hoping to achieve a snap fit. However it still worked
 
 ## Lessons Learned
 
