@@ -142,15 +142,15 @@ Here is a progress shot and a [video](https://github.com/user-attachments/assets
 
 <img width="298" height="289" alt="IMG_2517" src="https://github.com/user-attachments/assets/1e2a57b5-4d51-4204-be0a-7c46a1eed781" />
 
-Here it is directly off the plate and assembled. 
+Things started to go awry when it came to printing the name. Since I’ve had this issue before, I wasn't surprised it happened. However, I wasn't too upset either; by then, the part had already extruded the appropriate amount and the letters were on top of the staff, meaning it was not going to hinder the tolerances. This didn't mean my design was a disaster. I could just go in with sandpaper to fix the unevenness and paint the piece instead of having my name extruded.
+
+<img width="1208" height="906" alt="IMG_2525" src="https://github.com/user-attachments/assets/5684474c-4ba6-4376-90bc-b6503cae98c6" />
+
+Finally, here it is directly off the plate and assembled. 
 
 *Pic*
 
-
-
-
-
-The surface finish of the supports was about what I expected- it was rough which made me nervous since I was hoping to achieve a snap fit. However it still worked
+The finish of the supports was about what I expected- it was rough which made me nervous since I was hoping to achieve a snap fit when snapping the staff into place. However removing the supports was simple and I still succeded to get it assembled. 
 
 ## Lessons Learned
 
