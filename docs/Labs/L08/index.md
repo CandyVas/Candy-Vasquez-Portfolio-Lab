@@ -20,7 +20,7 @@ I am designing this product primarily for myself. However, after looking online,
 
 Before deciding on my final design, I wanted to research existing headphone stands and understand what makes a good design. I looked at popular designs on both Amazon and Printables. One design that caught my attention was the Omega-shaped stand, which was particularly tempting as someone pursuing engineering. However, after doing further research, I found an [article](https://headphones.com/blogs/features/the-most-popular-headphone-stand-might-be-ruining-your-headphones-why-pads-matter) explaining how certain headphone stands could potentially damage headphones over time. Some large Omega-style stands can place continuous pressure on the ear cushions. Over time, this pressure may flatten the padding and potentially affect the headphones' fit. This made me reconsider my initial design idea because I wanted to create a stand that would organize my headphones without potentially damaging them.
 
-Another potentially harmful headphone case design is one that has __. After looking more into different designs, this [website](https://www.moon-audio.com/blogs/expert-advice/stands-storage-cases-traveling-portable-audio-gear) highlights how a small hook can concentrate the headphones' weight on one small area of the headband, potentially causing dents or stretching the padding over time. A wider, curved support distributes the weight more evenly and helps reduce pressure on a single point.
+Another potentially harmful headphone case design is one that has a small concentrated area. After looking more into different designs, this [website](https://www.moon-audio.com/blogs/expert-advice/stands-storage-cases-traveling-portable-audio-gear) highlights how a small hook can concentrate the headphones' weight on one small area of the headband, potentially causing dents or stretching the padding over time. A wider, curved support distributes the weight more evenly and helps reduce pressure on a single point.
 
 Overall, these sources helped me develop a better understanding of what makes a suitable headphone stand. Rather than focusing only on its appearance, I wanted to create a design that would solve my original problem while also considering the headphones long term condition.
 
@@ -50,11 +50,12 @@ Before creating my CAD model, I needed to determine the dimensions of my headpho
 These measurements gave me a starting point for designing the stand. However, I wanted to verify the dimensions before continuing. After looking further online, I found a listing on Sam's Club that included the headphones specifications. This was helpful in checking my measurements and determining the dimensions to design my stand. 
 
 <img width="392" height="230" alt="image" src="https://github.com/user-attachments/assets/31407156-338f-4b6c-9073-8847ca63ad2f" />
+
 > [Link](https://www.samsclub.com/ip/HyperX-Cloud-III-Wired-Gaming-Headset-PC-PS5-Xbox-Series-X-S-Angled-53mm-Drivers-DTS-Memory-Foam-Durable-Frame-Ultra-Clear-10mm-Mic-USB-C-USB-A-3-5mm/20278224795?classType=REGULAR&from=/search) for the headphones and its specifications. 
 
 ### CAD Model 
 
-Since the stand was a relatively large piece, I decided to design it as separate components rather than printing the entire model as one piece. I remembered that, in a previous assignment, printing a rod upright greatly increased the printing time. I wanted to avoid a similar issue with this design and make the parts easier to print.
+Since the stand was a large piece, I decided to design it as separate components rather than printing the entire model as one piece. I remembered that, in a previous assignment, printing a rod upright greatly increased the printing time. I wanted to avoid a similar issue with this design and make the parts easier to print.
 
 <img width="522" height="334" alt="image" src="https://github.com/user-attachments/assets/253a2b57-4f81-47b5-811d-b4165171f83c" />
 <img width="321" height="175" alt="image" src="https://github.com/user-attachments/assets/c1e213ec-08a5-4818-bfe4-9510257415b4" />
@@ -136,9 +137,11 @@ I also aimed to minimize supports by choosing suitable print orientations. Avoid
 After finalizing the settings, I sliced the model in PrusaSlicer and got a total of contained 225 layers. I used the slicing preview to check the part layout, infill, and overall print preparation before sending the model to the printer.
 
 <img width="269" height="255" alt="image" src="https://github.com/user-attachments/assets/b7924045-3a4c-4d9e-a171-fe6978ebac81" />
+
 > PrusaSlcer Legend 
 
 <img width="634" height="473" alt="image" src="https://github.com/user-attachments/assets/42a9a8f5-700a-4b12-a20e-50270b722d98" />
+
 > 225 layers 
 
 The final settings were a compromise between the ideal design and the time available. This process taught me that preparing a model for 3D printing involves more than simply creating a CAD design. The orientation, infill, supports, and available printing time all affect how practical the final print will be.
@@ -147,6 +150,14 @@ The final settings were a compromise between the ideal design and the time avail
 ## Lessons Learned
 **Detailed lessoned learned throughout the process, the more detail the better which includes detailing any mistakes throughout the process.
 Actual time it took from start to finish and resources.**
+
+One of the biggest lessons I learned from this project was the importance of considering the manufacturing process early in the design stage. I was focused on creating a headphone stand that looked good and functioned as intended, but I did not fully consider how large the final model would be until I imported it into PrusaSlicer. Some of the parts extended beyond the build plate, forcing me to go back and adjust their orientation. This taught me that designing a product is not just about getting the CAD model right; it also means making sure the design is practical to manufacture.
+
+Another challenge was balancing my ideal print settings with the time I had available. I originally wanted to use 20% gyroid infill, but after slicing the model, I realized that the estimated print time was not practical for my deadline. I settled on 15% grid infill instead, which allowed me to move forward with the print. Although I was familiar with infill settings, this experience showed me how important it is to evaluate the actual print time early rather than assuming I will have enough time to use my preferred settings. In the future, I would slice my model earlier and use the estimated printing time to guide my design decisions.
+
+I also learned to be more intentional about part orientation. I purposefully avoided orientations that would require unnecessary supports because they would increase printing time and leave additional marks on the finished parts. However, avoiding supports also meant I had to think carefully about how each component would sit on the build plate. This made me realize that print orientation should be considered alongside the shape of the design, rather than treated as a final step after modeling.
+
+The printing process itself took about 4 hours. However I had to put in research, measure, design, then write my report which took aout 5 hours. So in total this assignment took 8 hours. 
 
 ## Appendix 
 [Toptal](https://www.toptal.com/designers/product-design/design-thinking-great-questions)
