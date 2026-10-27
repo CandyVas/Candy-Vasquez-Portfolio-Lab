@@ -7,13 +7,11 @@ The goal of this project was to design, laser cut, assemble, and document a para
 
 The material thickness was measured with calipers at three locations. The recorded measurements were 0.105 in, 0.109 in, and 0.107 in. The mean thickness was calculated as:
 
-+ Mean thickness = (0.105 + 0.109 + 0.107) / 3 = 0.107 in
-
-This is approximately 2.72 mm. 
++ Mean thickness = (0.105 + 0.109 + 0.107) / 3 = 0.107 in (or 2.72 mm)
 
 <img width="300" height="240" alt="image" src="https://github.com/user-attachments/assets/bd3de602-7714-44b4-a0dd-983f389b6b77" />
 
-Now to measure laser kerf, a 20 × 20 mm square was created in Solidworks which was trasnferred to Inkscape and cut using the laser cutter. The resulting square was measured with calipers in both the X and Y directions. The X-direction measurement was 19.70 mm (marked with the **red** dot), and the Y-direction measurement was 19.74 mm (marked with the **purple** dot).
+Then to measure kerf, we made a 20 × 20 mm square was created in Solidworks which was trasnferred to Inkscape and cut using the laser cutter. The resulting square was measured with calipers in both the X and Y directions. The X-direction measurement was 19.70 mm (marked with the **red** dot), and the Y-direction measurement was 19.74 mm (marked with the **purple** dot).
 
 <img width="300" height="240" alt="Screenshot 2026-10-22 174315" src="https://github.com/user-attachments/assets/3cdba93a-4288-43e6-8978-f5446a6a1092" />
 
@@ -112,9 +110,7 @@ I used one 12 × 12 inch sheet of wood with a nominal thickness of 1/8 inch. I u
 
 ### Reflection
 
-+ 1. The wood was labeled as 1/8 inch thick, but my measured average was only 0.107 inches. This showed why measuring the actual material is important instead of relying on its nominal thickness. Using the assumed thickness could have resulted in joints that were too tight or too loose.
-
-The kerf coupon also demonstrated that the laser removes material during cutting. Measuring the kerf and testing different slot widths helped me choose a 2.50 mm slot width that worked in the final assembly.
++ 1. The wood was labeled as 1/8 inch thick, but my measured average was only 0.107 inches. This showed why measuring the actual material is important instead of relying on its nominal thickness. Using the assumed thickness could have resulted in joints that were too tight or too loose. The kerf coupon also showed that the laser removes material during cutting. Measuring the kerf and testing different slot widths helped me choose a 2.50 mm slot width that worked in the final assembly.
 
 + 2. Taguchi's quality loss function explains that quality decreases when a result differs from its target, even if the part still functions. In my fit tests, the 2.40 mm slot was too tight, while everything beyond 2.60 mm was loose. The 2.50 mm slot provided the best fit. If thousands of these parts were manufactured, overly tight joints could increase assembly time or cause damage, while loose joints could create unstable assemblies. Both problems could increase waste, rework, and production costs.
 
@@ -123,10 +119,16 @@ The kerf coupon also demonstrated that the laser removes material during cutting
 + 4. If I had one more cut, I would verify the kerf measurements and do additional fit tests before manufacturing the final kit. I would also improve my SolidWorks model by using a global variable to control the slot widths instead of entering each dimension manually. This would make the design easier to update and help maintain consistent fits if the material or design changed.
 
 ## Appendix
-1 sheet of 3mm thick wood board.
+1 sheet of 3mm thick wood board
+
 LA-4 and LA-5 laser cutters
+
 InkScape Program 
+
 Solidworks Program 
+
 Epilog Dashboard Program
+
 [SolidWorks model to Inkscape to laser cutting](https://www.youtube.com/watch?v=ptxyHT09A2M)
+
 [Xometry](https://www.xometry.com/resources/3d-printing/3d-printing-vs-laser-cutting/)
