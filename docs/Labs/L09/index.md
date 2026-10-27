@@ -37,18 +37,41 @@ A second fit test was then conducted using a larger range of slot widths, approx
 <img width="325" height="243" alt="image" src="https://github.com/user-attachments/assets/f195753d-e9b2-4717-80bf-91a299984b8b" />
 
 
-## DESIGN
+## Design
+I started by creating a centerline. Since my design would be flat and assembled, I decided to create the sketches on the same top plane. I began with the first shape, a rectangle. I created a 30 mm rectangle centered on the centerline, then added a slit that extended halfway down the shape. I used a parametric design so that if I needed to make changes, I could update the dimensions through the Equation Manager instead of changing each dimension individually.
+
+<img width="313" height="276" alt="Screenshot 2026-10-27 103544" src="https://github.com/user-attachments/assets/5158f813-1c5c-4c46-902c-492c2e24247e" />
+<img width="250" height="304" alt="Screenshot 2026-10-27 103905" src="https://github.com/user-attachments/assets/9bfaa2e5-576a-47c4-9fc6-0630b79a4c12" />
+
+I repeated these steps for the other two shapes, creating the circles and squares with similar slits so the pieces could fit together.
+
+<img width="512" height="319" alt="image" src="https://github.com/user-attachments/assets/ca4d30e1-4b4d-4ddf-81a4-45b4846864cc" />
+
+I then used the Trim Entities tool to adjust the sketch geometry and ensure the slot openings were properly defined before proceeding with the final design.
+
+<img width="616" height="258" alt="image" src="https://github.com/user-attachments/assets/5cf19e49-fec4-4099-8356-7dc614b6c709" />
 
 My final kit was three circles, three rectangles and three squares (a total of nine pieces) comprising three different part types. That was sufficient to meet the minimum requirements for both number of part types and total number of pieces. The slits enabled the individual pieces to be joined together and the kit could be assembled without any recourse to the original box design.
 
-<img width="603" height="288" alt="Screenshot 2026-10-22 190513" src="https://github.com/user-attachments/assets/a998ac29-7e88-4c37-8951-4f2e262cd42c" />
+### Reparameterization 
 
-The pieces have slits that allow them to slide together. I modeled the parts in SolidWorks and used a 2.50 mm slit width, which produced a successful fit in the final laser-cut assembly.
+Although my measured material thickness was approximately 2.72 mm, the fit-test coupon showed that a 2.50 mm slot width produced the best fit. Based on this physical test, I returned to the Equation Manager and changed the relevant dimension from 2.72 mm to 2.50 mm. This allowed me to update the design through its parameters rather than manually changing individual dimensions.
 
-<img width="499" height="140" alt="image" src="https://github.com/user-attachments/assets/3b82e8e8-360e-42db-be19-efa240c24347" />
+The fit test demonstrated that the measured material thickness did not necessarily correspond to the slot width that worked best in practice. Testing the physical parts helped me choose a dimension that produced a successful assembly.
 
-> parameters used
 
+<img width="663" height="254" alt="image" src="https://github.com/user-attachments/assets/7db51534-f258-4a04-b6ed-86addabc8bce" />
+<img width="737" height="346" alt="image" src="https://github.com/user-attachments/assets/cdcff266-97ab-47b7-847f-720f242b4c13" />
+
+So since the pieces have slits that allow them to slide together. I modeled the parts in SolidWorks and used a 2.50 mm slit width, which produced a successful fit in the final laser-cut assembly.
+
+<img width="487" height="137" alt="image" src="https://github.com/user-attachments/assets/5a6fa3c5-ab96-47dd-bcf4-16a2c83df9a0" />
+
+> parameters measured
+
+<img width="490" height="146" alt="image" src="https://github.com/user-attachments/assets/c2511a47-b864-4fee-bb00-34d655191f5e" />
+
+> altered parameters
 <img width="314" height="244" alt="image" src="https://github.com/user-attachments/assets/b0f97ced-3ba2-41e7-bd43-dfd89d09058d" />
 <img width="555" height="210" alt="image" src="https://github.com/user-attachments/assets/a8c744ae-c3b3-49ac-a9cc-4f1bbc550825" />
 
