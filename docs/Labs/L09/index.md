@@ -100,6 +100,7 @@ I arranged the three circles, three rectangles, and three squares within the ava
 <img width="930" height="439" alt="Screenshot 2026-10-22 191632" src="https://github.com/user-attachments/assets/3e30a0b5-7b4a-4437-996d-095621dce2e8" />
 
 Here is a video of my [laser cuts](https://github.com/user-attachments/assets/c6dc6cf2-7f36-4c04-b627-db16a3b1e4b5)
+Here is my [solidworks file](https://drive.google.com/file/d/1yvh0M3q4Oj6adgm9EunJYRLMb69mpE6b/view?usp=sharing) 
 
 The finished wooden components did have some burn marks/soot along the edges. The burn marks could have been due to the heat of the laser, the cutting settings or the wood itself. This would explain why even though each part was designed with the same 2.50 mm slit, some are looser or tighter than others. 
 
