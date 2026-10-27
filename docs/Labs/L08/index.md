@@ -148,9 +148,12 @@ Things started to go awry when it came to printing the name. Since I’ve had th
 
 Finally, here it is directly off the plate and assembled. 
 
-*Pic*
+<img width="240" height="440" alt="image" src="https://github.com/user-attachments/assets/54ced19a-e81a-4869-86eb-44130215a0bb" />
 
-The finish of the supports was about what I expected- it was rough which made me nervous since I was hoping to achieve a snap fit when snapping the staff into place. However removing the supports was simple and I still succeded to get it assembled. 
+The finish of the supports was about what I expected- it was rough which made me nervous since I was hoping to achieve a snap fit when snapping the staff into place. However removing the supports was simple and I still succeded to get it assembled. And although the base has the same opening width as the saddle, it was much looser. After examining the headphone stand, I noticed that poor adhesion to the print bed may have caused the part to shift during printing, resulting in warping at both ends. Because of this, the base does not connect as securely as intended. However, the stand remains functional and can still support the headphones despite the imperfect connection.
+
+
+
 
 ## Lessons Learned
 
