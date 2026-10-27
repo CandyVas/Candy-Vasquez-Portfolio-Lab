@@ -22,7 +22,9 @@ Then to measure kerf, we made a 20 × 20 mm square was created in Solidworks whi
 The kerf was calculated by subtracting each measured dimension from the original 20 mm dimension:
 
 X-direction kerf: 20.00 − 19.70 = 0.30 mm
+
 Y-direction kerf: 20.00 − 19.74 = 0.26 mm
+
 The average of the two measurements was 0.28 mm. The difference between the X and Y measurements shows that the measured kerf was not identical in both directions. 
 
 ## Coupon
