@@ -46,3 +46,15 @@ there was no need to do the other side as i extrude dthru the toher side of the 
 <img width="338" height="296" alt="Screenshot 2026-11-03 150428" src="https://github.com/user-attachments/assets/3a7795eb-0062-4d8d-923a-8d5c661284c3" />
 
 <img width="414" height="269" alt="image" src="https://github.com/user-attachments/assets/0d38f59d-0867-43e5-8b68-a43572eea489" />
+
+
+i wanted to avoid supports being on the inside of my box so it wouldnt interefere with my fit, however after many attempts of orienting my bo, it looked to be impossible to avid supports on the interior, atleast not wihtout weak spots hich PreFOrm displays with orange. Therefore i settle don this, and upon closer inspection you will notice that it does *not* touch the snap feature, which is example that iw as looiking for 
+
+<img width="200" height="149" alt="image" src="https://github.com/user-attachments/assets/648748bd-466d-40a5-b483-a476ed8f869c" />
+<img width="316" height="194" alt="image" src="https://github.com/user-attachments/assets/dab3cc1b-ad71-4cfc-a5e5-9172cfa4b8c5" />
+
+<img width="323" height="391" alt="Screenshot 2026-11-03 152407" src="https://github.com/user-attachments/assets/6ed24bdf-c916-4a77-81de-a20f7686abe0" />
+
+
+
+<img width="214" height="399" alt="image" src="https://github.com/user-attachments/assets/3eb473da-755f-437c-85e5-0b7087c77a9a" />
