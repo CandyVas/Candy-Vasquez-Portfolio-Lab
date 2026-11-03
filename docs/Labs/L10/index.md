@@ -59,14 +59,11 @@ After completing the CAD models, I imported both components into PreForm to prep
 I connected to the Niner Net guest Wi-Fi and accessed the available resin printers in the Super Fab Lab. I selected the printer named HiddenCod, which was a Formlabs Form 3, and used the available print settings.
 
 <img width="401" height="200" alt="Screenshot 2026-11-03 100208" src="https://github.com/user-attachments/assets/739b1a6a-7232-4366-8cb6-e462f6f28cc7" />
-
-
 <img width="316" height="218" alt="Screenshot 2026-11-03 100215" src="https://github.com/user-attachments/assets/46dd6d68-1c73-41a8-b1e0-20e1eb97e785" />
 
 These were the initial results after importing both components into PreForm.
 
 <img width="191" height="219" alt="image" src="https://github.com/user-attachments/assets/38a02b79-2527-4e41-9ec8-4c0c724f3805" />
-
 <img width="220" height="205" alt="image" src="https://github.com/user-attachments/assets/cbe9874f-5ca0-4716-8db3-744e6d274612" />
 
 One of the main things I considered during this stage was the orientation of the components on the build plate. Unlike FDM printing, resin printing requires support structures to hold the parts in place during printing. Because my design relies on two surfaces sliding against one another, I wanted to avoid placing supports directly on these areas. Removing supports from the sliding surfaces could leave marks or rough spots, which would increase friction and affect the fit.
@@ -74,16 +71,13 @@ One of the main things I considered during this stage was the orientation of the
 I used PreForm's One-Click feature to help position the supports. I then reviewed the suggested orientation and made sure the supports were kept away from the main sliding surfaces as much as possible.
 
 <img width="222" height="255" alt="image" src="https://github.com/user-attachments/assets/c9c7034c-4c11-4ff8-b556-5ff9153c64f2" />
-
 <img width="124" height="118" alt="Screenshot 2026-10-29 183126" src="https://github.com/user-attachments/assets/fef6274f-8912-48f0-8fc5-6ffa3c4da36e" />
-
 <img width="126" height="115" alt="Screenshot 2026-10-29 182938" src="https://github.com/user-attachments/assets/ac95f574-79f3-4ccb-ba4f-9ba8509789f5" />
 
 The final printing settings were:
 
 
 <img width="202" height="386" alt="Screenshot 2026-10-29 182414" src="https://github.com/user-attachments/assets/f6db5b65-5221-44ba-b2af-3a3265f1274e" />
-
 <img width="218" height="404" alt="Screenshot 2026-10-29 183116" src="https://github.com/user-attachments/assets/ba52cf80-1e10-48e0-84ec-79457ccadb15" />
 
 
@@ -92,9 +86,7 @@ The final printing settings were:
 This is what it looked like after printing. I needed to remove the support structures from both components. This needed to be done carefully because the parts contained small features and precise sliding surfaces.
 
 <img width="300" height="241" alt="image" src="https://github.com/user-attachments/assets/12610ccb-9627-44f3-ad14-ba7707c33192" />
-
 <img width="300" height="206" alt="image" src="https://github.com/user-attachments/assets/8c006ac7-c3b9-4cf7-835d-84ee3fc4b357" />
-
 <img width="200" height="206" alt="image" src="https://github.com/user-attachments/assets/de577633-a1cd-4c78-ac30-e45f662be206" />
 
 I paid particular attention to the areas around the sliding surfaces because removing supports too roughly could damage the geometry and affect the final fit.
@@ -118,7 +110,6 @@ Following washing, I cured the components for 15 minutes to complete the resin c
 Post-curing helps harden the resin, but it can also cause slight shrinkage as the material continues to cure. This was important to consider because even small dimensional changes could affect the clearance between my two components.
 
 <img width="300" height="201" alt="image" src="https://github.com/user-attachments/assets/89930200-a1c9-43dc-9980-04f7d8928f3d" />
-
 <img width="300" height="206" alt="image" src="https://github.com/user-attachments/assets/4b0e2ca3-a340-4d0d-b3f4-4f3feecb7d69" />
 
 After washing and curing, I sanded the components to improve their surface finish and remove imperfections.
@@ -151,7 +142,6 @@ During the initial assembly, the two components fitted together and could slide 
 Another issue I noticed was the handle on the sliding insert. During testing, the insert could slide into the housing until it reached the handle, where its movement stopped.
 
 <img width="245" height="277" alt="image" src="https://github.com/user-attachments/assets/52f166e5-2ce1-43d4-9db9-2f9da00497c6" />
-
 <img width="199" height="224" alt="image" src="https://github.com/user-attachments/assets/b77b6bf1-d4e1-4fdb-8d4b-c7953f438189" />
 
 This showed me that I needed to consider the entire assembly, not just the sliding surfaces. The handle also needed to be positioned carefully so that it would not interfere with the movement of the mechanism.
