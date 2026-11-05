@@ -55,6 +55,8 @@ i wanted to avoid supports being on the inside of my box so it wouldnt interefer
 
 <img width="323" height="391" alt="Screenshot 2026-11-03 152407" src="https://github.com/user-attachments/assets/6ed24bdf-c916-4a77-81de-a20f7686abe0" />
 
+I gt to th fablab and was hoping to print on th printer i was familiar with which was HiddenCod since that is what i estalished my settings for in terms of the material that it's going to print in. However HiddenCod was taken up, so I ended up printing on MatureImpala, luckily they had the same settings 
 
+<img width="215" height="425" alt="Screenshot 2026-11-05 125135" src="https://github.com/user-attachments/assets/17fc86cd-a89e-4a10-8099-ab59104279d7" />
+<img width="208" height="218" alt="Screenshot 2026-11-05 125202" src="https://github.com/user-attachments/assets/c36d5650-1740-4819-8560-bd292405f8ee" />
 
-<img width="214" height="399" alt="image" src="https://github.com/user-attachments/assets/3eb473da-755f-437c-85e5-0b7087c77a9a" />
