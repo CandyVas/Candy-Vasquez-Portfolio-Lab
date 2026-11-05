@@ -1,4 +1,4 @@
-# A11 – Motor Selection
+# L11 – SLA Snap Fit
 
 ## Objective
 
@@ -66,7 +66,11 @@ rial used.
 
 ## CAD
 
-The type of snap-fit I designed was a cantilever 
+The type of snap-fit I designed was a cantilever. 
+
+<img width="522" height="368" alt="image" src="https://github.com/user-attachments/assets/bb6fe514-6863-43f2-9e06-17ca8397de33" />
+[source](https://www.hubs.com/knowledge-base/how-design-parts-sla-3d-printing/) 
+ 
 
 starting on the top plane i center my square to make it 60 by 60 mm and extrude it by 2.5
 
@@ -94,6 +98,7 @@ Starting on th box itself, i made anoter box that was 60 by 60 and extruded it b
 <img width="443" height="264" alt="image" src="https://github.com/user-attachments/assets/09a72696-c935-4c2e-a01c-945c281077ab" />
 
 i clicked on the topplace and shelled it by 2.5 
+
 <img width="491" height="319" alt="image" src="https://github.com/user-attachments/assets/0754b2fd-c68f-4f5d-bcd7-8cfb920e725c" />
 
 there was no need to do the other side as i extrude dthru the toher side of the box 
