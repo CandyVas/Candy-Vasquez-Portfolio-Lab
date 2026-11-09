@@ -92,8 +92,7 @@ I eventually settled on the orientation shown below. Although some supports were
 
 <img width="200" height="149" alt="image" src="https://github.com/user-attachments/assets/648748bd-466d-40a5-b483-a476ed8f869c" />
 <img width="316" height="194" alt="image" src="https://github.com/user-attachments/assets/dab3cc1b-ad71-4cfc-a5e5-9172cfa4b8c5" />
-
-<img width="323" height="391" alt="Screenshot 2026-11-03 152407" src="https://github.com/user-attachments/assets/6ed24bdf-c916-4a77-81de-a20f7686abe0" />
+<img width="193" height="191" alt="Screenshot 2026-11-03 152407" src="https://github.com/user-attachments/assets/6ed24bdf-c916-4a77-81de-a20f7686abe0" />
 
 When I arrived at the FabLab, I originally planned to print using the printer I was familiar with, HiddenCod. I had already prepared my settings based on the material I planned to use.
 
@@ -104,10 +103,9 @@ For the slicing process, I used the default settings provided in PreForm. I did 
 <img width="215" height="425" alt="Screenshot 2026-11-05 125135" src="https://github.com/user-attachments/assets/17fc86cd-a89e-4a10-8099-ab59104279d7" />
 <img width="208" height="218" alt="Screenshot 2026-11-05 125202" src="https://github.com/user-attachments/assets/c36d5650-1740-4819-8560-bd292405f8ee" />
 
-SLA printing is generally considered anisotropic because the strength of a printed part can change depending on the direction of the force and how the layers are connected. Since the Form 4 builds parts one layer at a time, the bond between layers may not behave exactly the same as the material within each layer. This is important for my design because the hooks need to bend slightly when the lid is attached.
+When doing my [research](https://www.ymolding.com/isotropic-vs-anisotropic-why-3d-print-direction-affects-part-strength/), I discovered that SLA printing is considered mostly isotropic, meaning that the strength of the printed part is fairly similar in different directions. This is because the resin forms strong bonds between layers during the curing process. This is different from FDM printing, where the strength can change depending on the direction the part is printed. FDM parts can be weaker between layers because the plastic is deposited one layer at a time.
 
-I had to consider the printing direction because I did not want the hooks to break when they were being pushed into place.
-
+For my project, using SLA was helpful because I wanted the hooks to be strong enough to bend slightly without breaking. Even though SLA is nearly isotropic, print orientation still matters because it affects where supports are placed and the surface finish of the part.
 
 ## Post-Processing
 
@@ -183,3 +181,13 @@ Although my snap fit worked well, there are still a few things I would improve i
 For this project, I used the FabLab's Form 4 printing equipment, PreForm for preparing the model, and CAD software to design both the lid and the box. The actual printing process took 1 hour and 35 minutes, with a total resin usage of 40.41 mL. After printing, I spent 5 minutes washing the parts and 15 minutes curing them. I also used wire cutters provided by the FabLab to remove the supports. 
 
 Overall, this project took me bout 6 hours and it helped me understand how much planning goes into making a working snap fit. It was not just about designing two pieces that fit together. I am happy with the final result because the lid successfully snaps onto the box and stays in place. If I were to make another version, I would focus on improving the alignment of the hooks to make assembly easier.
+
+## Appendix 
+
+[YMolding](https://www.ymolding.com/isotropic-vs-anisotropic-why-3d-print-direction-affects-part-strength/) 
+
+[Protolabs Network](https://www.hubs.com/knowledge-base/how-design-parts-sla-3d-printing/) 
+
+[Qmolding](https://qmolding.com/3d-printing-interlocking-parts/)
+
+“Snap-Fit Joints for Plastics – A Design Guide” 
