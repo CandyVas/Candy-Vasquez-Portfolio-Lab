@@ -131,9 +131,9 @@ After removing the supports, I washed the parts for 5 minutes to clean off any u
 
 > Curing process - 15 minutes 
 
-One thing I noticed about the curing process was that it made the parts feel stiffer. Since my design relied on the hooks bending slightly, I was worried about attaching the lid before the resin had fully cured because I did not want the hooks to break. I decided to wait until the curing process was finished before testing the snap fit. This made me realize how important the material is when designing something that needs to bend. The hooks needed to be flexible enough to connect the lid to the box, but also strong enough to hold it in place. SLA and FDM printing have some important differences, especially when it comes to strength and flexibility.
+One thing I noticed about the curing process was that it made the parts feel stiffer. Since my design relied on the hooks bending slightly, I was worried about attaching the lid before the resin had fully cured because I did not want the hooks to break. I decided to wait until the curing process was finished before testing the snap fit. This made me realize how important the material is when designing something that needs to bend. The hooks needed to be flexible enough to connect the lid to the box, but also strong enough to hold it in place. 
 
-SLA printing uses liquid resin that is hardened using UV light. One advantage is that it creates a smoother surface and can capture smaller details. This is helpful for snap fit designs because the hooks and openings need to line up properly. FDM printing uses melted plastic that is pushed through a nozzle and built up layer by layer. This usually leaves visible layer lines on the surface. Depending on the material used, FDM parts can sometimes be more suitable for flexible snap fit designs.
+SLA and FDM printing have some important differences, especially when it comes to strength and flexibility. SLA printing uses liquid resin that is hardened using UV light. One advantage is that it creates a smoother surface and can capture smaller details. This is helpful for snap fit designs because the hooks and openings need to line up properly. FDM printing uses melted plastic that is pushed through a nozzle and built up layer by layer which usually leaves visible layer lines on the surface. 
 
 Another difference is how the parts handle stress. Some SLA resins can be more brittle and may crack if they are bent too far. PLA can also be stiff and brittle, but other FDM materials, such as PETG, can offer more flexibility. For my project, the smooth surface of SLA printing helped create clean fitting areas. However, I had to be more careful with the hooks because I did not want them to bend too far and break.
 
@@ -156,15 +156,11 @@ During testing, I found that the snap fit worked as intended. The hooks were abl
 
 ### Challenges During the Design Process
 
-One of the biggest challenges I faced was designing the hooks around the properties of SLA resin. Since the hooks needed to bend during assembly, I had to be careful not to make them too thick or too stiff. I also had to think about the clearance between the lid and the box. Even a small difference in the dimensions could affect how the parts fit together. If the hooks did not have enough room, they could get stuck or break. If there was too much space, the lid would not stay in place.
-
-Another challenge was figuring out the best print orientation. I wanted to avoid placing supports inside the box, especially near the snap-fit features. After trying different orientations, I found one that worked well without placing supports directly on the areas that needed to fit together.
+One of the biggest challenges I faced was designing the hooks around the properties of SLA resin. Since the hooks needed to bend during assembly, I had to be careful not to make them too thick or too stiff. I also had to think about the clearance between the lid and the box because even a small difference in the dimensions could affect how the parts fit together. If the hooks did not have enough room, they could get stuck or break. If there was too much space, the lid would not stay in place.
 
 ### SLA Tolerances & Print Orientation
 
-One thing that this project helped me understand that a design that looks correct in CAD does not always work exactly the same way once it is printed. Clearance is especially important when designing snap fit parts because the two components need to fit together without requiring too much force. I also learned that support placement matters more than I originally thought. Supports can leave marks on a part, so keeping them away from important fitting areas can save time during post-processing and help preserve the original dimensions.
-
-I also learned that print orientation can affect the strength of a part. Since the hooks needed to bend, I had to consider how the layers were positioned and how the force would affect them during assembly.
+One thing that this project helped me understand that a design that looks correct in CAD does not always work exactly the same way once it is printed. Clearance is especially important when designing snap fit parts because the two components need to fit together without requiring too much force. I also learned that support placement matters more than I originally thought. Supports can leave marks on a part, so keeping them away from important fitting areas can save time during post-processing and help preserve the original dimensions. I also learned that print orientation can affect the strength of a part since the hooks needed to bend, I had to consider how the layers were positioned and how the force would affect them during assembly.
 
 ### SLA vs FDM
 
@@ -187,5 +183,7 @@ Overall, this project took me bout 6 hours and it helped me understand how much 
 [Protolabs Network](https://www.hubs.com/knowledge-base/how-design-parts-sla-3d-printing/) 
 
 [Qmolding](https://qmolding.com/3d-printing-interlocking-parts/)
+
+[FormLabs](https://www.google.com/search?q=sla+versus+FDM&ie=UTF-8) 
 
 “Snap-Fit Joints for Plastics – A Design Guide” 
