@@ -112,13 +112,11 @@ For my project, using SLA was helpful because I wanted the hooks to be strong en
 <img width="284" height="222" alt="image" src="https://github.com/user-attachments/assets/0e435c75-54a9-434a-abef-4f3937331825" />
 <img width="288" height="228" alt="image" src="https://github.com/user-attachments/assets/360d93b9-78dd-47b0-b649-2672bf834ced" />
 
-
 After the print was complete, I moved on to post processing. One thing that worked out well was the support placement. Since I had kept the supports away from the main snap-fit features, I did not have to sand those areas down or worry about changing the shape of the hooks. The FabLab provided wire cutters, which made removing the supports much easier.
 
 <img width="345" height="266" alt="image" src="https://github.com/user-attachments/assets/fb23c50a-2917-4f49-8295-1c5752bd01c4" />
 <img width="368" height="257" alt="image" src="https://github.com/user-attachments/assets/600c560a-1778-4b63-8f86-55cec4daad4e" />
 <img width="308" height="335" alt="image" src="https://github.com/user-attachments/assets/f4971046-aeb2-4bbd-9957-02d4b2abab7c" />
-
 
 After removing the supports, I washed the parts for 5 minutes to clean off any uncured resin left on the surface. Once they were washed, I placed them in the curing machine for 15 minutes to finish hardening the resin.
 
