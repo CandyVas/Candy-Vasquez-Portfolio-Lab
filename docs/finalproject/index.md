@@ -52,4 +52,10 @@ when designing my c-clamp, i referenced many designs to base mine off of. When i
 <img width="227" height="255" alt="image" src="https://github.com/user-attachments/assets/2fae0cac-ec51-4fba-9c87-95671afdd112" />
 with the easurements i chose, this was the size that was meat to print on prusaslicer. Whe sliing it it was long, however i am simply trying to test this and jwhtether it'll screw or not. FDM printing doesnt experience scaling issues like resin does, so i comfortably altered the size to be smaller so i can test it 
 
+
+These were thre prucasettings downscale by 50% 
+<img width="193" height="238" alt="Screenshot 2026-11-12 143714" src="https://github.com/user-attachments/assets/a518db45-d453-4479-b471-b33b7aab3b68" />
+
+<img width="302" height="120" alt="image" src="https://github.com/user-attachments/assets/a1f9801b-94da-48bb-8ca3-eb71e9ea9b4f" />
+
 ## Part 2
