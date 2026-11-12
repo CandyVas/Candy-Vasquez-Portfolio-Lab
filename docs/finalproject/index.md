@@ -58,4 +58,13 @@ These were thre prucasettings downscale by 50%
 
 <img width="302" height="120" alt="image" src="https://github.com/user-attachments/assets/a1f9801b-94da-48bb-8ca3-eb71e9ea9b4f" />
 
+OPTION A
+<img width="318" height="287" alt="image" src="https://github.com/user-attachments/assets/bf933911-8cb5-43d7-a207-ed76d970ad11" />
+> slide in
+
+Option B
+<img width="344" height="278" alt="image" src="https://github.com/user-attachments/assets/c7e2b262-960a-4c60-9b26-8055b5950ae2" />
+> screw it on
+
+
 ## Part 2
