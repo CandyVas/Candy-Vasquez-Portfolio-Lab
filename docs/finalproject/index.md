@@ -234,8 +234,7 @@ Once the assembly is complete, I will test whether the platform can support the 
 
 ## Video Presentation
 
-
-https://github.com/user-attachments/assets/76e957aa-b824-449a-95bb-3fd0179d9577
+watch my video [here](https://github.com/user-attachments/assets/76e957aa-b824-449a-95bb-3fd0179d9577) 
 
 
 
