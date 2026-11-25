@@ -314,7 +314,7 @@ To make the design more adjustable, I included a parametric feature in my SolidW
 Instead of manually changing the clamp dimensions each time I want to fit a different surface, I can link the opening dimension in my sketch to this variable. Changing the variable will update the model automatically.
 
 ## Final Video
-
+Watch my final video [here](https://photos.google.com/u/1/photo/AF1QipOFWT1vONUCfCuDDbKK7XZtiwO8PggkDi9bkbOG)
 Produce a 1–2 minute video summarizing your work.
 Include:
 The problem and motivation
