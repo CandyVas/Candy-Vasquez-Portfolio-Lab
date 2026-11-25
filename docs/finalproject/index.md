@@ -1,10 +1,9 @@
-# Final Project – [Manufactured Prototype]
-
+# PART 1
 ## 1. Research
 
 ### A. Spiral Design Process
 
-The Spiral Design Process is an engineering approach that focuses on developing a product through multiple stages of designing and improvement. Instead of expecting the first design to be perfect, the process lets designers to identify problems early and use those findings to improve the next version of their design.
+The Spiral Design Process is an engineering method that focuses on developing a product through multiple stages of designing and improvement. Instead of expecting the first design to be perfect, the process lets designers to identify problems early and use those findings to improve the next version of their design.
 
 The process is usually  divided into four main categories:
 
@@ -22,13 +21,6 @@ According to [TechTarget](https://www.techtarget.com/news/What-is-the-spiral-mod
 FDM parts can be stronger along the direction of the deposited filament than in the direction where forces attempt to separate the layers. This is important because the bonding between layers is not always as strong as the material within an individual deposited strand.
 
 For my project, anisotropy is an important consideration because the C-clamp will experience forces when it is attached to the windowsill or desk. The clamp must resist the weight of the wooden platform and whatever is placed on it. If the clamp is printed in an orientation where the layers are pulled apart by these forces, it could crack or fail.
-
-There are several ways to reduce the effects of anisotropy:
-
-- Select a print orientation that keeps the main forces from pulling the layers apart.
-- Add fillets to reduce stress around corners.
-- Increase the number of walls or perimeters to strengthen the outside of the part.
-- Use an appropriate infill and pattern.
 
 ### C. SLA Shrinkage and Dimensional Accuracy
 
@@ -130,7 +122,7 @@ After completing the clamp body, I designed the screw that would be used to tigh
 
 <img width="550" height="341" alt="image" src="https://github.com/user-attachments/assets/777f8282-e739-4116-96ea-912e8011a4c4" />
 
->I also used the Hole Wizard feature in SolidWorks to create the hole for the handle. I selected the legacy hole option, applied the settings shown in my model, and positioned the hole in the center of the screw head. This allowed the handle to pass through the screw and provide a way to rotate it.
+> I also used the Hole Wizard feature in SolidWorks to create the hole for the handle. I selected the legacy hole option, applied the settings shown in my model, and positioned the hole in the center of the screw head. This allowed the handle to pass through the screw and provide a way to rotate it.
 
 ### PrusaSLicer
 
@@ -201,40 +193,129 @@ Despite these problems, I was able to attach the clamp to the edge of a desk, wh
 
 Overall, this first prototype was useful because it showed me that the basic clamp shape could work, but the threaded mechanism and print orientation needed improvement. My next step would be to revise the design, pay closer attention to the tolerances between the screw and clamp, and test the threaded components at a more realistic size. I would also consider changing the print orientation to prevent support material from interfering with important features.
 
-
-## Planned Final Assembly
-
-For the next design iteration, I plan to manufacture the wooden platform using the laser cutter. The platform will provide the additional surface area for the plant and will be attached to the C-clamp assembly.
-
-I also plan to create a small SLA-printed spacer or insert to improve the fit between the platform and the clamp. The purpose of this component will be to reduce looseness and improve alignment without making the resin part responsible for supporting the main load.
-
-The final design will combine the flexibility of FDM printing, the surface area and appearance of laser-cut wood, and the detail of SLA printing.
-
-### Threaded Connection
-
-In the first prototype, support material damaged both the external screw threads and the internal threaded hole. For the next version, I plan to test the thread fit separately before printing the entire clamp. I will also experiment with print orientation to reduce support contact with the threads.
-
-### Clamp Fit and Adjustment
-
-The clamp needs to accommodate the thickness of the windowsill or desk. I will need to measure the actual surface thickness before finalizing the opening dimensions.
-
-I also need to verify that turning the screw creates inward movement and applies pressure against the surface. The clamp should not simply slide into position or remain attached because of a tight physical fit.
-
-### Handle Strength
-
-The handle rod snapped on the miniature prototype because scaling the design down made the feature too thin. In the next version, I will avoid scaling down small functional components without checking their minimum dimensions. I will also consider increasing the handle diameter or changing its design.
-
-### Wooden Platform and SLA Insert
-
-The laser-cut wooden platform will need to be checked for dimensions, flatness, and fit with the clamp assembly. I will make a small kerf test before cutting the final platform. The SLA insert will also need a fit test to determine whether it is too tight or too loose. I will make adjustments to its dimensions based on the actual printed result.
-
-### Load and Stability Testing
-
-Once the assembly is complete, I will test whether the platform can support the intended plant without slipping, rotating, or bending. I will begin with a small load and increase it gradually while observing the clamp and platform. I will also check whether the platform moves when a load is placed near its outer edge. This is important because the additional distance from the clamp creates a bending moment that could cause the platform to rotate or sag.
-
 ## Video Presentation
 
 watch my video [here](https://github.com/user-attachments/assets/76e957aa-b824-449a-95bb-3fd0179d9577) 
 
 
+# PART 2
 
+## Worksheet
+
+After presenting my initial design, I received feedback from three classmates. Overall, the feedback was positive, and people understood the purpose of the windowsill extender. However, they also pointed out a few areas that could be improved before making the final prototype.
+
+<img width="300" height="283" alt="image" src="https://github.com/user-attachments/assets/f2815178-c5fd-4e90-b4e4-d9966d9ab996" />
+<img width="200" height="150" alt="image" src="https://github.com/user-attachments/assets/95befd5c-0745-423c-b75d-1d13b9fddf4e" />
+
+
+> Kaileigh
+
+
+<img width="300" height="251" alt="image" src="https://github.com/user-attachments/assets/d9b10dd3-dc00-4a60-8ea6-fff601e19299" />
+<img width="200" height="150" alt="image" src="https://github.com/user-attachments/assets/a7a40cb4-a3b2-4e4d-9053-620b5266293f" />
+
+> Austin
+
+<img width="300" height="266" alt="image" src="https://github.com/user-attachments/assets/a7e4f620-3757-436e-9979-3580fa78b994" />
+<img width="200" height="150" alt="image" src="https://github.com/user-attachments/assets/8e59829b-3ec0-4228-9b9c-9a7a7d4eada3" />
+
+> Ameer
+
+| Feedback | Solution |
+| --- | --- |
+| Clarity | Most classmates thought the problem was easy to understand. One suggestion was to include a picture of the actual windowsill to help show why additional space was needed. |
+| Functionality| concerns about stability, the thickness of the wooden platform, and whether the clamp would be strong enough to support a plant. One suggestion was to use clamps on both sides for additional support. | 
+| Creativity |  People liked the adjustable screw mechanism because it allows the clamp to fit different surface thicknesses. They also liked the idea of using a clamp to create additional windowsill or desk space. | ow 2, Cell 2 |
+| User Experience | Feedback included improving the support underneath the platform and making sure the screw threads fit properly. One classmate also suggested improving the overall stability of the design. | 
+| Iteration FOcus | The most common suggestions were to improve the strength and stability of the platform, confirm that the clamp fits properly, and make sure the threaded components work as intended. | 
+
+## Refinement
+
+I found the feedback helpful because it pointed out areas I needed to focus on when moving from my first test print to the final design. I agreed that stability was one of the most important things to improve, and in order to do that I needed to get the clamp and its threads to actually fit and work. The first test print helped me identify problems with the printed threads, so now I know what not to do. 
+
+One thing I didn't consider before were FDM clearances and, so that means i need to make adjustments to the dimensions before printing at full size. Instead of adding clamps like someone suggested, I decided I'd rather focus on improving the connection between the existing clamp and the wooden platform. 
+
+### Removed Ridges 
+
+<img width="245" height="257" alt="image" src="https://github.com/user-attachments/assets/813218d0-b688-4d18-a12a-39588c2f9472" />
+
+I removed the ridges from the clamp. This made the design simpler and reduced the need for support material during printing. In the first print, support material had caused problems around the threaded area, making it difficult to remove and it damaged the threads.
+
+### Clearance
+
+<img width="185" height="163" alt="Screenshot 2026-11-18 150423" src="https://github.com/user-attachments/assets/b33595ec-6ff6-40ab-8ec7-3567f556cfbd" />
+<img width="331" height="293" alt="image" src="https://github.com/user-attachments/assets/5d830ea6-32d6-417b-955d-0bab58e3dc10" />
+
+
+Another important adjustment involved the threaded connection. In my initial model, I had used a 12 mm dimension for both the screw and the hole. However, the printed parts did not engage with each other properly. I adjusted the internal thread dimensions, using a 10.5 mm minor diameter for the hole while keeping the screw's nominal diameter at 12 mm. This gave the threaded components a better chance of engaging properly. The final fit still needed to be checked through assembly.
+
+### Extension
+
+<img width="302" height="243" alt="image" src="https://github.com/user-attachments/assets/1abdfb5a-962f-4ea3-8316-de19fc3b9bd8" />
+<img width="167" height="283" alt="Screenshot 2026-11-18 144336" src="https://github.com/user-attachments/assets/5ffa62cf-623c-46f2-979b-81b77a67a722" />
+
+I also included the extender platform in this version so that I could evaluate the complete design rather than just the clamps function. To improve the connection between the clamp and the platform, I added a screw and slot. This increased size for it to rest on (slit) and helped secure the platform to the clamp and makes the connection more stable (screws). 
+
+### Upscaled
+
+<img width="542" height="410" alt="Screenshot 2026-11-19 135948" src="https://github.com/user-attachments/assets/bd370996-da33-4526-9054-3807f5f13509" />
+
+Finally, I printed the clamp at its original designed size instead of scaling it down. The first print was useful for identifying problems, but scaling it down also made some features too small to properly evaluate. For the next version, I used the actual dimensions intended for the windowsill.
+
+
+## Documentation
+
+
+<img width="396" height="271" alt="Screenshot 2026-11-19 170545" src="https://github.com/user-attachments/assets/cc425946-a26f-4743-a910-8a47aab020af" />
+<img width="378" height="271" alt="Screenshot 2026-11-19 170741" src="https://github.com/user-attachments/assets/4cd0ebab-a41e-401b-ac5d-7110d77625e6" />
+
+While the 3D-printed parts were being manufactured, I started designing the wooden platform for my desk extender. I created the design in SolidWorks and then exported it to Inkscape to prepare it for laser cutting.
+
+
+<img width="206" height="229" alt="Screenshot 2026-11-19 171825" src="https://github.com/user-attachments/assets/99d54aa2-6a29-475c-9bd8-782fd3f41d3a" />
+<img width="116" height="270" alt="Screenshot 2026-11-19 172621" src="https://github.com/user-attachments/assets/c4f7a4b6-b844-4733-8a2d-1e54261aa3d9" />
+<img width="830" height="397" alt="Screenshot 2026-11-19 191213" src="https://github.com/user-attachments/assets/65178db6-5553-453b-8291-683cf2b6529b" />
+
+Since the laser cutter also has an engraving feature, I decided to add a flower design to the wooden platform. I thought this would be a nice detail because the extender is primarily intended to hold a plant. After finishing the design and engraving, I laser-cut the wooden platform. 
+
+<img width="956" height="703" alt="image" src="https://github.com/user-attachments/assets/5f53ffd1-b6f6-40e5-a24e-8e2ad7d3b50b" />
+<img width="956" height="500" alt="image" src="https://github.com/user-attachments/assets/02ddd040-fd1c-40d2-8227-2a32de911dd4" />
+
+Here are the completed results- the wooden platform and the C-clamp!
+
+### Assembly Instructions: 
+
+1. Position the C-clamp around the edge of the windowsill or desk.
+<img width="679" height="906" alt="image" src="https://github.com/user-attachments/assets/3748321c-ff36-4196-8933-5c794942efff" />
+
+2. Turn the adjustment screw until the clamp grips the surface securely. Avoid overtightening.
+<img width="679" height="906" alt="image" src="https://github.com/user-attachments/assets/97d43141-fbf5-4284-b9eb-fbd93ed0bd52" />
+
+3. Align the wooden extension platform with the clamp.
+<img width="334" height="251" alt="image" src="https://github.com/user-attachments/assets/a4b9f483-01ad-43f4-a7d0-8b8c62953615" />
+
+4. Use the screw-and-slot connection to attach the platform to the clamp.
+<img width="331" height="353" alt="image" src="https://github.com/user-attachments/assets/f3e46377-a205-4153-a445-137db3810c23" />
+
+5. Place the intended object, such as a potted plant, onto the platform.
+<img width="320" height="350" alt="image" src="https://github.com/user-attachments/assets/06280335-485f-4c44-81b4-3e6b52c05aa0" />
+
+## Presentation 
+
+<img width="618" height="343" alt="image" src="https://github.com/user-attachments/assets/1cba2236-b6ac-45da-adc7-cc15e9cc7404" />
+
+## Parametric Design
+
+To make the design more adjustable, I included a parametric feature in my SolidWorks model to control the wooden slot for of the C-clamp.
+
+<img width="393" height="320" alt="image" src="https://github.com/user-attachments/assets/0d985922-1978-4b94-9252-40868fbbe456" />
+
+Instead of manually changing the clamp dimensions each time I want to fit a different surface, I can link the opening dimension in my sketch to this variable. Changing the variable will update the model automatically.
+
+## Final Video
+
+Produce a 1–2 minute video summarizing your work.
+Include:
+The problem and motivation
+Your manufactured solution
+How both FDM and SLA technologies were utilized
