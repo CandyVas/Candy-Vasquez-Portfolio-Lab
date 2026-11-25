@@ -222,13 +222,13 @@ After presenting my initial design, I received feedback from three classmates. O
 
 > Ameer
 
-| Feedback | Solution |
+| Feedback | Summary |
 | --- | --- |
-| Clarity | Most classmates thought the problem was easy to understand. One suggestion was to include a picture of the actual windowsill to help show why additional space was needed. |
-| Functionality| concerns about stability, the thickness of the wooden platform, and whether the clamp would be strong enough to support a plant. One suggestion was to use clamps on both sides for additional support. | 
-| Creativity |  People liked the adjustable screw mechanism because it allows the clamp to fit different surface thicknesses. They also liked the idea of using a clamp to create additional windowsill or desk space. | ow 2, Cell 2 |
-| User Experience | Feedback included improving the support underneath the platform and making sure the screw threads fit properly. One classmate also suggested improving the overall stability of the design. | 
-| Iteration FOcus | The most common suggestions were to improve the strength and stability of the platform, confirm that the clamp fits properly, and make sure the threaded components work as intended. | 
+| Clarity | Overall easy to understand, one suggestion was to include a picture of the actual windowsill to help show why additional space was needed. |
+| Functionality| Concerns about stability, the thickness of the wooden platform, and whether the clamp would be strong enough to support a plant. One suggestion was to use clamps on both sides for additional support. | 
+| Creativity | People liked the adjustable screw mechanism because it allows the clamp to fit different surface thicknesses. They also liked the idea of using a clamp to create additional windowsill or desk space. | 
+| User Experience | Improve the support underneath the platform and making sure the screw threads fit properly. | 
+| Iteration FOcus | Most common suggestions was to improve the strength and stability of the platform, confirm that the clamp fits properly, and make sure the threaded components work as intended. | 
 
 ## Refinement
 
