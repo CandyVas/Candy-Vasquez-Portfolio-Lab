@@ -315,8 +315,3 @@ Instead of manually changing the clamp dimensions each time I want to fit a diff
 
 ## Final Video
 Watch my final video [here](https://photos.google.com/u/1/photo/AF1QipOFWT1vONUCfCuDDbKK7XZtiwO8PggkDi9bkbOG)
-Produce a 1–2 minute video summarizing your work.
-Include:
-The problem and motivation
-Your manufactured solution
-How both FDM and SLA technologies were utilized
