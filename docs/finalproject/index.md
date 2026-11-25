@@ -244,7 +244,7 @@ I removed the ridges from the clamp. This made the design simpler and reduced th
 ### Clearance
 
 <img width="185" height="163" alt="Screenshot 2026-11-18 150423" src="https://github.com/user-attachments/assets/b33595ec-6ff6-40ab-8ec7-3567f556cfbd" />
-<img width="331" height="293" alt="image" src="https://github.com/user-attachments/assets/5d830ea6-32d6-417b-955d-0bab58e3dc10" />
+<img width="131" height="193" alt="image" src="https://github.com/user-attachments/assets/5d830ea6-32d6-417b-955d-0bab58e3dc10" />
 
 
 Another important adjustment involved the threaded connection. In my initial model, I had used a 12 mm dimension for both the screw and the hole. However, the printed parts did not engage with each other properly. I adjusted the internal thread dimensions, using a 10.5 mm minor diameter for the hole while keeping the screw's nominal diameter at 12 mm. This gave the threaded components a better chance of engaging properly. The final fit still needed to be checked through assembly.
@@ -273,23 +273,23 @@ While the 3D-printed parts were being manufactured, I started designing the wood
 
 
 <img width="206" height="229" alt="Screenshot 2026-11-19 171825" src="https://github.com/user-attachments/assets/99d54aa2-6a29-475c-9bd8-782fd3f41d3a" />
-<img width="116" height="270" alt="Screenshot 2026-11-19 172621" src="https://github.com/user-attachments/assets/c4f7a4b6-b844-4733-8a2d-1e54261aa3d9" />
+<img width="206" height="270" alt="Screenshot 2026-11-19 172621" src="https://github.com/user-attachments/assets/c4f7a4b6-b844-4733-8a2d-1e54261aa3d9" />
 <img width="830" height="397" alt="Screenshot 2026-11-19 191213" src="https://github.com/user-attachments/assets/65178db6-5553-453b-8291-683cf2b6529b" />
 
 Since the laser cutter also has an engraving feature, I decided to add a flower design to the wooden platform. I thought this would be a nice detail because the extender is primarily intended to hold a plant. After finishing the design and engraving, I laser-cut the wooden platform. 
 
-<img width="956" height="703" alt="image" src="https://github.com/user-attachments/assets/5f53ffd1-b6f6-40e5-a24e-8e2ad7d3b50b" />
-<img width="956" height="500" alt="image" src="https://github.com/user-attachments/assets/02ddd040-fd1c-40d2-8227-2a32de911dd4" />
+<img width="656" height="403" alt="image" src="https://github.com/user-attachments/assets/5f53ffd1-b6f6-40e5-a24e-8e2ad7d3b50b" />
+<img width="656" height="400" alt="image" src="https://github.com/user-attachments/assets/02ddd040-fd1c-40d2-8227-2a32de911dd4" />
 
 Here are the completed results- the wooden platform and the C-clamp!
 
 ### Assembly Instructions: 
 
 1. Position the C-clamp around the edge of the windowsill or desk.
-<img width="679" height="906" alt="image" src="https://github.com/user-attachments/assets/3748321c-ff36-4196-8933-5c794942efff" />
+<img width="379" height="406" alt="image" src="https://github.com/user-attachments/assets/3748321c-ff36-4196-8933-5c794942efff" />
 
 2. Turn the adjustment screw until the clamp grips the surface securely. Avoid overtightening.
-<img width="679" height="906" alt="image" src="https://github.com/user-attachments/assets/97d43141-fbf5-4284-b9eb-fbd93ed0bd52" />
+<img width="379" height="406" alt="image" src="https://github.com/user-attachments/assets/97d43141-fbf5-4284-b9eb-fbd93ed0bd52" />
 
 3. Align the wooden extension platform with the clamp.
 <img width="334" height="251" alt="image" src="https://github.com/user-attachments/assets/a4b9f483-01ad-43f4-a7d0-8b8c62953615" />
